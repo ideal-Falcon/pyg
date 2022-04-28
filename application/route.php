@@ -8,14 +8,24 @@
 // +----------------------------------------------------------------------
 // | Author: liu21st <liu21st@gmail.com>
 // +----------------------------------------------------------------------
+use think\Route;
+// return [
+//     '__pattern__' => [
+//         'name' => '\w+',
+//     ],
+//     '[hello]'     => [
+//         ':id'   => ['index/hello', ['method' => 'get'], ['id' => '\d+']],
+//         ':name' => ['index/hello', ['method' => 'post']],
+//     ],
 
-return [
-    '__pattern__' => [
-        'name' => '\w+',
-    ],
-    '[hello]'     => [
-        ':id'   => ['index/hello', ['method' => 'get'], ['id' => '\d+']],
-        ':name' => ['index/hello', ['method' => 'post']],
-    ],
+// ];
 
-];
+//后台接口域名路由adminapi
+Route::domain('adminapi',function(){
+	//adminapi模块首页路由
+	Route::get('/','adminapi/index/index');
+
+	//获取验证码接口
+	Route::get('captcha/:id','\\think\\captcha\\CaptchaController@index');//访问图片需要 
+	Route::get('captcha','adminapi/login/captcha');
+});

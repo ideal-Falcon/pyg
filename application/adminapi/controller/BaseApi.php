@@ -6,7 +6,7 @@ use think\Controller;
 
 class BaseApi extends Controller
 {
-    public function _initialize()
+    protected function _initialize()
     {
     	//处理跨域请求
     	//允许的源域名
@@ -18,13 +18,13 @@ class BaseApi extends Controller
     }
 
     //通用响应
-    public function response($cdoe=200,$msg='success',$data=[])
+    public function response($code=200,$msg='success',$data=[])
     {
     	$res=[
     		'code'=>$code,
     		'msg'=>$msg,
     		'data'=>$data
-    	]
+    	];
     	//原生写法
     	//echo json_decode($res,JSON_UNESCAPED_UNICODE);die;//防止转换为Unicode编码
     	//框架写法
@@ -32,9 +32,9 @@ class BaseApi extends Controller
     }
 
     //成功响应
-    public function ok($data=[])
+    public function ok($data=[],$code=200,$msg='success')
     {
-    	$this->response($data);
+    	$this->response($code,$msg,$data);
     }
     //失败响应
     public function fail($msg,$code=500,$data=[])
