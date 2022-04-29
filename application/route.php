@@ -25,7 +25,10 @@ Route::domain('adminapi',function(){
 	//adminapi模块首页路由
 	Route::get('/','adminapi/index/index');
 
-	//获取验证码接口
-	Route::get('captcha/:id','\\think\\captcha\\CaptchaController@index');//访问图片需要 
+	//获取验证码接口;//访问图片需要 
+	Route::get('captcha/:id','\\think\\captcha\\CaptchaController@index');
 	Route::get('captcha','adminapi/login/captcha');
+	//登录接口
+	Route::post('login','adminapi/login/login');
+
 });

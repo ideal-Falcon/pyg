@@ -10,3 +10,11 @@
 // +----------------------------------------------------------------------
 
 // 应用公共文件
+if(!function_exists('encrypt_password'))
+{
+	//密码加密函数
+	function encrypt_password($password){
+		$salt='lynb';
+		return md5($salt.md5($password));
+	}
+}
