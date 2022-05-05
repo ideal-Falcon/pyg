@@ -6,6 +6,8 @@ use think\Controller;
 
 class BaseApi extends Controller
 {
+    //无需登录的请求
+    protected $no_login=['login/captcha','login/login'];
     protected function _initialize()
     {
     	//处理跨域请求
@@ -15,6 +17,26 @@ class BaseApi extends Controller
 	    header("Access-Control-Allow-Headers: Origin, X-Requested-With, Content-Type, Accept, Authorization");
 	    //允许的请求类型
 	    header('Access-Control-Allow-Methods: GET, POST, PUT,DELETE,OPTIONS,PATCH');
+
+        try{
+            //登录检测
+            //获取当前请求的控制器方法名
+            $path=strtolower($this->request->controller()).'/'.$this->request->action();
+            if(!in_array($path, $this->no_login)){
+                //需要做登录检测
+                $user_id=\tools\jwt\Token::getUserId();
+                if(empty($user_id)){
+                    $this->fail('token验证失败',403);
+                }
+                //将得到的用户id放到请求信息中
+                $this->request->get('user_id',$user_id);
+                $this->request->post('user_id',$user_id);
+            }
+        }catch(\Exception $e){
+            //token解析失败
+            $this->fail('token解析失败',404);
+        }
+        
     }
 
     //通用响应

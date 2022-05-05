@@ -31,4 +31,7 @@ Route::domain('adminapi',function(){
 	//登录接口
 	Route::post('login','adminapi/login/login');
 
+	//退出接口
+	Rout::get('logout','adminapi/login/logout');
+
 });

@@ -68,4 +68,19 @@ class Login extends BaseApi
         $this->ok($data);
 
     }
+
+    public function logout()
+    {
+        //记录token为已退出
+        //获取当前请求中的token
+        $token=\tools\jwt\Token::getRequestToken();
+        //从缓存中取出注销的token数组
+        $delete_token=cache('delete_token') ?: [];
+        //将当前token加入注销数组
+        $delete_token[]=$token;
+        //将新数组重新存入缓存
+        cache('delete_token',$delete_token);
+        //返回数据
+        $this->ok();
+    }
 }
