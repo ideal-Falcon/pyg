@@ -1,0 +1,4658 @@
+---------------------------------------------------------------
+[ 2022-04-28T12:15:52+08:00 ] 127.0.0.1 GET www.pyg.com/adminapi/index/index
+[ error ] [0]语法解析错误: syntax error, unexpected 'class' (T_CLASS), expecting '{'
+---------------------------------------------------------------
+[ 2022-04-28T12:16:29+08:00 ] 127.0.0.1 GET www.pyg.com/adminapi/index
+[ error ] [0]语法解析错误: syntax error, unexpected 'class' (T_CLASS), expecting '{'
+---------------------------------------------------------------
+[ 2022-04-28T12:16:32+08:00 ] 127.0.0.1 GET www.pyg.com/adminapi/index/index
+[ error ] [0]语法解析错误: syntax error, unexpected 'class' (T_CLASS), expecting '{'
+---------------------------------------------------------------
+[ 2022-04-28T12:16:48+08:00 ] 127.0.0.1 GET adminapi.pyg.com/adminapi/index/index
+[ error ] [0]语法解析错误: syntax error, unexpected 'class' (T_CLASS), expecting '{'
+---------------------------------------------------------------
+[ 2022-04-28T12:17:10+08:00 ] 127.0.0.1 GET adminapi.pyg.com/
+[ error ] [0]语法解析错误: syntax error, unexpected 'class' (T_CLASS), expecting '{'
+---------------------------------------------------------------
+[ 2022-04-28T12:17:11+08:00 ] 127.0.0.1 GET adminapi.pyg.com/
+[ error ] [0]语法解析错误: syntax error, unexpected 'class' (T_CLASS), expecting '{'
+---------------------------------------------------------------
+[ 2022-04-28T12:17:22+08:00 ] 127.0.0.1 GET adminapi.pyg.com/
+[ error ] [0]语法解析错误: syntax error, unexpected 'class' (T_CLASS), expecting '{'
+---------------------------------------------------------------
+[ 2022-04-28T12:17:24+08:00 ] 127.0.0.1 GET adminapi.pyg.com/
+[ error ] [0]语法解析错误: syntax error, unexpected 'class' (T_CLASS), expecting '{'
+---------------------------------------------------------------
+[ 2022-04-28T12:17:31+08:00 ] 127.0.0.1 GET adminapi.pyg.com/
+[ error ] [0]语法解析错误: syntax error, unexpected 'class' (T_CLASS), expecting '{'
+---------------------------------------------------------------
+[ 2022-04-28T12:18:41+08:00 ] 127.0.0.1 GET adminapi.pyg.com/
+[ error ] [0]语法解析错误: syntax error, unexpected 'json' (T_STRING)
+---------------------------------------------------------------
+[ 2022-04-28T12:18:42+08:00 ] 127.0.0.1 GET adminapi.pyg.com/
+[ error ] [0]语法解析错误: syntax error, unexpected 'json' (T_STRING)
+---------------------------------------------------------------
+[ 2022-04-28T12:18:43+08:00 ] 127.0.0.1 GET adminapi.pyg.com/
+[ error ] [0]语法解析错误: syntax error, unexpected 'json' (T_STRING)
+---------------------------------------------------------------
+[ 2022-04-28T12:18:43+08:00 ] 127.0.0.1 GET adminapi.pyg.com/
+[ error ] [0]语法解析错误: syntax error, unexpected 'json' (T_STRING)
+---------------------------------------------------------------
+[ 2022-04-28T12:18:43+08:00 ] 127.0.0.1 GET adminapi.pyg.com/
+[ error ] [0]语法解析错误: syntax error, unexpected 'json' (T_STRING)
+---------------------------------------------------------------
+[ 2022-04-28T12:18:43+08:00 ] 127.0.0.1 GET adminapi.pyg.com/
+[ error ] [0]语法解析错误: syntax error, unexpected 'json' (T_STRING)
+---------------------------------------------------------------
+[ 2022-04-28T12:19:29+08:00 ] 127.0.0.1 GET adminapi.pyg.com/
+[ error ] [0]语法解析错误: syntax error, unexpected 'json' (T_STRING)
+---------------------------------------------------------------
+[ 2022-04-28T12:19:54+08:00 ] 127.0.0.1 GET adminapi.pyg.com/
+[ error ] [0]语法解析错误: syntax error, unexpected 'json' (T_STRING)
+---------------------------------------------------------------
+[ 2022-04-28T12:19:55+08:00 ] 127.0.0.1 GET adminapi.pyg.com/
+[ error ] [0]语法解析错误: syntax error, unexpected 'json' (T_STRING)
+---------------------------------------------------------------
+[ 2022-04-28T12:19:55+08:00 ] 127.0.0.1 GET adminapi.pyg.com/
+[ error ] [0]语法解析错误: syntax error, unexpected 'json' (T_STRING)
+---------------------------------------------------------------
+[ 2022-04-28T12:19:56+08:00 ] 127.0.0.1 GET adminapi.pyg.com/
+[ error ] [0]语法解析错误: syntax error, unexpected 'json' (T_STRING)
+---------------------------------------------------------------
+[ 2022-04-28T12:19:56+08:00 ] 127.0.0.1 GET adminapi.pyg.com/
+[ error ] [0]语法解析错误: syntax error, unexpected 'json' (T_STRING)
+---------------------------------------------------------------
+[ 2022-04-28T12:20:08+08:00 ] 127.0.0.1 GET adminapi.pyg.com/adminapi
+[ error ] [0]语法解析错误: syntax error, unexpected 'json' (T_STRING)
+---------------------------------------------------------------
+[ 2022-04-28T12:22:23+08:00 ] 127.0.0.1 GET adminapi.pyg.com/
+[ error ] [0]语法解析错误: syntax error, unexpected 'json' (T_STRING)
+---------------------------------------------------------------
+[ 2022-04-28T12:22:29+08:00 ] 127.0.0.1 GET adminapi.pyg.com/index.php
+[ error ] [0]语法解析错误: syntax error, unexpected 'json' (T_STRING)
+---------------------------------------------------------------
+[ 2022-04-28T12:22:54+08:00 ] 127.0.0.1 GET adminapi.pyg.com/
+[ error ] [0]语法解析错误: syntax error, unexpected 'json' (T_STRING)
+---------------------------------------------------------------
+[ 2022-04-28T12:25:15+08:00 ] 127.0.0.1 GET adminapi.pyg.com/adminapi
+[ error ] [0]语法解析错误: syntax error, unexpected 'json' (T_STRING)
+---------------------------------------------------------------
+[ 2022-04-28T12:26:30+08:00 ] 127.0.0.1 GET adminapi.pyg.com/adminapi
+[ error ] [0]语法解析错误: syntax error, unexpected 'json' (T_STRING)
+---------------------------------------------------------------
+[ 2022-04-28T12:27:41+08:00 ] 127.0.0.1 GET adminapi.pyg.com/adminapi
+[ error ] [0]语法解析错误: syntax error, unexpected 'json' (T_STRING)
+---------------------------------------------------------------
+[ 2022-04-28T12:29:05+08:00 ] 127.0.0.1 GET adminapi.pyg.com/adminapi
+[ error ] [0]语法解析错误: syntax error, unexpected 'json' (T_STRING)
+---------------------------------------------------------------
+[ 2022-04-28T12:29:13+08:00 ] 127.0.0.1 GET adminapi.pyg.com/adminapi
+[ error ] [0]语法解析错误: syntax error, unexpected 'json' (T_STRING)
+---------------------------------------------------------------
+[ 2022-04-28T12:30:57+08:00 ] 127.0.0.1 GET adminapi.pyg.com/token
+[ error ] [0]语法解析错误: syntax error, unexpected 'json' (T_STRING)
+---------------------------------------------------------------
+[ 2022-04-28T12:30:58+08:00 ] 127.0.0.1 GET adminapi.pyg.com/token
+[ error ] [0]语法解析错误: syntax error, unexpected 'json' (T_STRING)
+---------------------------------------------------------------
+[ 2022-04-28T12:31:39+08:00 ] 127.0.0.1 GET adminapi.pyg.com/token
+[ error ] [0]语法解析错误: syntax error, unexpected 'json' (T_STRING)
+---------------------------------------------------------------
+[ 2022-04-28T12:35:05+08:00 ] 127.0.0.1 GET adminapi.pyg.com/token
+[ error ] [0]语法解析错误: syntax error, unexpected 'json' (T_STRING)
+---------------------------------------------------------------
+[ 2022-04-28T12:35:06+08:00 ] 127.0.0.1 GET adminapi.pyg.com/token
+[ error ] [0]语法解析错误: syntax error, unexpected 'json' (T_STRING)
+---------------------------------------------------------------
+[ 2022-04-28T12:35:06+08:00 ] 127.0.0.1 GET adminapi.pyg.com/token
+[ error ] [0]语法解析错误: syntax error, unexpected 'json' (T_STRING)
+---------------------------------------------------------------
+[ 2022-04-28T12:35:06+08:00 ] 127.0.0.1 GET adminapi.pyg.com/token
+[ error ] [0]语法解析错误: syntax error, unexpected 'json' (T_STRING)
+---------------------------------------------------------------
+[ 2022-04-28T12:35:07+08:00 ] 127.0.0.1 GET adminapi.pyg.com/token
+[ error ] [0]语法解析错误: syntax error, unexpected 'json' (T_STRING)
+---------------------------------------------------------------
+[ 2022-04-28T12:35:07+08:00 ] 127.0.0.1 GET adminapi.pyg.com/token
+[ error ] [0]语法解析错误: syntax error, unexpected 'json' (T_STRING)
+---------------------------------------------------------------
+[ 2022-04-28T12:35:12+08:00 ] 127.0.0.1 GET adminapi.pyg.com/token
+[ error ] [0]语法解析错误: syntax error, unexpected 'json' (T_STRING)
+---------------------------------------------------------------
+[ 2022-04-28T12:35:17+08:00 ] 127.0.0.1 GET adminapi.pyg.com/adminapi
+[ error ] [0]语法解析错误: syntax error, unexpected 'json' (T_STRING)
+---------------------------------------------------------------
+[ 2022-04-28T12:41:53+08:00 ] 127.0.0.1 GET adminapi.pyg.com/adminapi
+[ error ] [0]语法解析错误: syntax error, unexpected 'json' (T_STRING)
+---------------------------------------------------------------
+[ 2022-04-28T12:41:56+08:00 ] 127.0.0.1 GET adminapi.pyg.com/adminapi
+[ error ] [0]语法解析错误: syntax error, unexpected 'json' (T_STRING)
+---------------------------------------------------------------
+[ 2022-04-28T12:43:13+08:00 ] 127.0.0.1 GET adminapi.pyg.com/token
+[ error ] [0]语法解析错误: syntax error, unexpected 'json' (T_STRING)
+---------------------------------------------------------------
+[ 2022-04-28T12:52:09+08:00 ] 127.0.0.1 GET adminapi.pyg.com/token
+[ error ] [0]语法解析错误: syntax error, unexpected 'json' (T_STRING)
+---------------------------------------------------------------
+[ 2022-04-28T12:55:39+08:00 ] 127.0.0.1 GET adminapi.pyg.com/adminapi
+[ error ] [0]语法解析错误: syntax error, unexpected 'json' (T_STRING)
+---------------------------------------------------------------
+[ 2022-04-28T12:55:43+08:00 ] 127.0.0.1 GET adminapi.pyg.com/adminapi/index/index
+[ error ] [0]语法解析错误: syntax error, unexpected 'json' (T_STRING)
+---------------------------------------------------------------
+[ 2022-04-28T12:57:01+08:00 ] 127.0.0.1 GET adminapi.pyg.com/adminapi/index/index
+[ error ] [0]语法解析错误: syntax error, unexpected 'json' (T_STRING)
+---------------------------------------------------------------
+[ 2022-04-28T12:57:02+08:00 ] 127.0.0.1 GET adminapi.pyg.com/adminapi/index/index
+[ error ] [0]语法解析错误: syntax error, unexpected 'json' (T_STRING)
+---------------------------------------------------------------
+[ 2022-04-28T12:57:56+08:00 ] 127.0.0.1 GET adminapi.pyg.com/adminapi/index/index
+[运行时间：0.057845s] [吞吐率：17.29req/s] [内存消耗：1,320.83kb] [文件加载：36]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'adminapi',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'adminapi.pyg.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+[ error ] [0]语法解析错误: syntax error, unexpected 'json' (T_STRING)[F:\pyg\application\adminapi\controller\BaseApi.php:31]
+---------------------------------------------------------------
+[ 2022-04-28T12:58:02+08:00 ] 127.0.0.1 GET adminapi.pyg.com/adminapi/index/index
+[运行时间：0.041918s] [吞吐率：23.86req/s] [内存消耗：1,825.11kb] [文件加载：62]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'adminapi',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'adminapi.pyg.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\adminapi\controller\Index->index[ F:\pyg\application\adminapi\controller\Index.php ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-04-28T16:26:50+08:00 ] 127.0.0.1 GET adminapi.pyg.com/adminapi/index/index
+[运行时间：0.850013s] [吞吐率：1.18req/s] [内存消耗：1,818.47kb] [文件加载：62]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'adminapi',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'adminapi.pyg.com',
+)
+[ info ] [ PARAM ] array (
+  '/adminapi/index/index' => '',
+)
+[ info ] [ RUN ] app\adminapi\controller\Index->index[ F:\pyg\application\adminapi\controller\Index.php ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-04-28T16:27:27+08:00 ] 127.0.0.1 GET adminapi.pyg.com/adminapi/index/index
+[运行时间：0.057015s] [吞吐率：17.54req/s] [内存消耗：1,818.47kb] [文件加载：62]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'adminapi',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'adminapi.pyg.com',
+)
+[ info ] [ PARAM ] array (
+  '/adminapi/index/index' => '',
+)
+[ info ] [ RUN ] app\adminapi\controller\Index->index[ F:\pyg\application\adminapi\controller\Index.php ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-04-28T16:27:28+08:00 ] 127.0.0.1 GET adminapi.pyg.com/adminapi/index/index
+[运行时间：0.037209s] [吞吐率：26.88req/s] [内存消耗：1,818.47kb] [文件加载：62]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'adminapi',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'adminapi.pyg.com',
+)
+[ info ] [ PARAM ] array (
+  '/adminapi/index/index' => '',
+)
+[ info ] [ RUN ] app\adminapi\controller\Index->index[ F:\pyg\application\adminapi\controller\Index.php ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-04-28T16:27:29+08:00 ] 127.0.0.1 GET adminapi.pyg.com/adminapi/index/index
+[运行时间：0.033371s] [吞吐率：29.97req/s] [内存消耗：1,818.47kb] [文件加载：62]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'adminapi',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'adminapi.pyg.com',
+)
+[ info ] [ PARAM ] array (
+  '/adminapi/index/index' => '',
+)
+[ info ] [ RUN ] app\adminapi\controller\Index->index[ F:\pyg\application\adminapi\controller\Index.php ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-04-28T16:51:38+08:00 ] 127.0.0.1 GET adminapi.pyg.com/captcha
+[运行时间：3.075815s] [吞吐率：0.33req/s] [内存消耗：1,325.27kb] [文件加载：34]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\captcha\\CaptchaController',
+    1 => 'index',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'referer' => 'http://localhost:8080/',
+  'origin' => 'http://localhost:8080',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50',
+  'accept' => 'application/json, text/plain, */*',
+  'connection' => 'close',
+  'host' => 'adminapi.pyg.com',
+)
+[ info ] [ PARAM ] array (
+  '/captcha' => '',
+  'id' => NULL,
+)
+[ info ] [ RUN ] think\captcha\CaptchaController->index[ F:\pyg\vendor\topthink\think-captcha\src\CaptchaController.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-04-28T16:51:42+08:00 ] 127.0.0.1 GET adminapi.pyg.com/captcha
+[运行时间：0.204331s] [吞吐率：4.89req/s] [内存消耗：1,325.27kb] [文件加载：34]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\captcha\\CaptchaController',
+    1 => 'index',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'referer' => 'http://localhost:8080/',
+  'origin' => 'http://localhost:8080',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50',
+  'accept' => 'application/json, text/plain, */*',
+  'connection' => 'close',
+  'host' => 'adminapi.pyg.com',
+)
+[ info ] [ PARAM ] array (
+  '/captcha' => '',
+  'id' => NULL,
+)
+[ info ] [ RUN ] think\captcha\CaptchaController->index[ F:\pyg\vendor\topthink\think-captcha\src\CaptchaController.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-04-28T17:12:22+08:00 ] 127.0.0.1 GET adminapi.pyg.com/captcha
+[运行时间：0.095109s] [吞吐率：10.51req/s] [内存消耗：1,329.52kb] [文件加载：34]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\captcha\\CaptchaController',
+    1 => 'index',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'adminapi.pyg.com',
+)
+[ info ] [ PARAM ] array (
+  '/captcha' => '',
+  'id' => NULL,
+)
+[ info ] [ RUN ] think\captcha\CaptchaController->index[ F:\pyg\vendor\topthink\think-captcha\src\CaptchaController.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-04-28T17:12:30+08:00 ] 127.0.0.1 GET adminapi.pyg.com/captcha
+[运行时间：0.064765s] [吞吐率：15.44req/s] [内存消耗：1,330.30kb] [文件加载：34]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\captcha\\CaptchaController',
+    1 => 'index',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'cookie' => 'PHPSESSID=doph2g8fi6k8j9s9sk6bjsrsaa',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'adminapi.pyg.com',
+)
+[ info ] [ PARAM ] array (
+  '/captcha' => '',
+  'id' => NULL,
+)
+[ info ] [ RUN ] think\captcha\CaptchaController->index[ F:\pyg\vendor\topthink\think-captcha\src\CaptchaController.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-04-28T17:13:05+08:00 ] 127.0.0.1 GET adminapi.pyg.com/adminapi/login/captcha
+[运行时间：0.163226s] [吞吐率：6.13req/s] [内存消耗：1,308.41kb] [文件加载：35]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-04-28T17:14:45+08:00 ] 127.0.0.1 GET adminapi.pyg.com/captcha
+[运行时间：0.061518s] [吞吐率：16.26req/s] [内存消耗：1,329.66kb] [文件加载：34]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\captcha\\CaptchaController',
+    1 => 'index',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'cookie' => 'PHPSESSID=doph2g8fi6k8j9s9sk6bjsrsaa',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'adminapi.pyg.com',
+)
+[ info ] [ PARAM ] array (
+  '/captcha' => '',
+  'id' => NULL,
+)
+[ info ] [ RUN ] think\captcha\CaptchaController->index[ F:\pyg\vendor\topthink\think-captcha\src\CaptchaController.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-04-28T17:14:55+08:00 ] 127.0.0.1 GET adminapi.pyg.com/captcha
+[运行时间：0.052629s] [吞吐率：19.00req/s] [内存消耗：1,328.97kb] [文件加载：34]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\captcha\\CaptchaController',
+    1 => 'index',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'cookie' => 'PHPSESSID=doph2g8fi6k8j9s9sk6bjsrsaa',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'adminapi.pyg.com',
+)
+[ info ] [ PARAM ] array (
+  '/captcha' => '',
+  'id' => NULL,
+)
+[ info ] [ RUN ] think\captcha\CaptchaController->index[ F:\pyg\vendor\topthink\think-captcha\src\CaptchaController.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-04-28T17:14:57+08:00 ] 127.0.0.1 GET adminapi.pyg.com/captcha
+[运行时间：0.025853s] [吞吐率：38.68req/s] [内存消耗：1,328.97kb] [文件加载：34]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\captcha\\CaptchaController',
+    1 => 'index',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'cookie' => 'PHPSESSID=doph2g8fi6k8j9s9sk6bjsrsaa',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'adminapi.pyg.com',
+)
+[ info ] [ PARAM ] array (
+  '/captcha' => '',
+  'id' => NULL,
+)
+[ info ] [ RUN ] think\captcha\CaptchaController->index[ F:\pyg\vendor\topthink\think-captcha\src\CaptchaController.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-04-28T17:14:57+08:00 ] 127.0.0.1 GET adminapi.pyg.com/captcha
+[运行时间：0.023604s] [吞吐率：42.37req/s] [内存消耗：1,328.97kb] [文件加载：34]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\captcha\\CaptchaController',
+    1 => 'index',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'cookie' => 'PHPSESSID=doph2g8fi6k8j9s9sk6bjsrsaa',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'adminapi.pyg.com',
+)
+[ info ] [ PARAM ] array (
+  '/captcha' => '',
+  'id' => NULL,
+)
+[ info ] [ RUN ] think\captcha\CaptchaController->index[ F:\pyg\vendor\topthink\think-captcha\src\CaptchaController.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-04-28T17:15:02+08:00 ] 127.0.0.1 GET adminapi.pyg.com/adminapi/login/captcha
+[运行时间：0.170803s] [吞吐率：5.85req/s] [内存消耗：1,770.80kb] [文件加载：45]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'adminapi',
+    1 => 'login',
+    2 => 'captcha',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'cookie' => 'PHPSESSID=doph2g8fi6k8j9s9sk6bjsrsaa',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'adminapi.pyg.com',
+)
+[ info ] [ PARAM ] array (
+  '/adminapi/login/captcha' => '',
+)
+[ info ] [ RUN ] app\adminapi\controller\Login->captcha[ F:\pyg\application\adminapi\controller\Login.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [8]未定义变量: code[F:\pyg\application\adminapi\controller\BaseApi.php:24]
+---------------------------------------------------------------
+[ 2022-04-28T17:15:03+08:00 ] 127.0.0.1 GET adminapi.pyg.com/adminapi/login/captcha
+[运行时间：0.035956s] [吞吐率：27.81req/s] [内存消耗：1,770.80kb] [文件加载：45]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'adminapi',
+    1 => 'login',
+    2 => 'captcha',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'cookie' => 'PHPSESSID=doph2g8fi6k8j9s9sk6bjsrsaa',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'adminapi.pyg.com',
+)
+[ info ] [ PARAM ] array (
+  '/adminapi/login/captcha' => '',
+)
+[ info ] [ RUN ] app\adminapi\controller\Login->captcha[ F:\pyg\application\adminapi\controller\Login.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [8]未定义变量: code[F:\pyg\application\adminapi\controller\BaseApi.php:24]
+---------------------------------------------------------------
+[ 2022-04-28T17:15:05+08:00 ] 127.0.0.1 GET adminapi.pyg.com/adminapi/login/captcha
+[运行时间：0.034896s] [吞吐率：28.66req/s] [内存消耗：1,770.80kb] [文件加载：45]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'adminapi',
+    1 => 'login',
+    2 => 'captcha',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'cookie' => 'PHPSESSID=doph2g8fi6k8j9s9sk6bjsrsaa',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'adminapi.pyg.com',
+)
+[ info ] [ PARAM ] array (
+  '/adminapi/login/captcha' => '',
+)
+[ info ] [ RUN ] app\adminapi\controller\Login->captcha[ F:\pyg\application\adminapi\controller\Login.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [8]未定义变量: code[F:\pyg\application\adminapi\controller\BaseApi.php:24]
+---------------------------------------------------------------
+[ 2022-04-28T17:15:32+08:00 ] 127.0.0.1 GET adminapi.pyg.com/adminapi/login/captcha
+[运行时间：0.072214s] [吞吐率：13.85req/s] [内存消耗：1,648.05kb] [文件加载：42]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'adminapi',
+    1 => 'login',
+    2 => 'captcha',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'cookie' => 'PHPSESSID=doph2g8fi6k8j9s9sk6bjsrsaa',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'adminapi.pyg.com',
+)
+[ info ] [ PARAM ] array (
+  '/adminapi/login/captcha' => '',
+)
+[ info ] [ RUN ] app\adminapi\controller\Login->captcha[ F:\pyg\application\adminapi\controller\Login.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-04-28T17:16:22+08:00 ] 127.0.0.1 GET adminapi.pyg.com/adminapi/login/captcha
+[运行时间：0.030464s] [吞吐率：32.83req/s] [内存消耗：1,648.28kb] [文件加载：42]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'adminapi',
+    1 => 'login',
+    2 => 'captcha',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'cookie' => 'PHPSESSID=doph2g8fi6k8j9s9sk6bjsrsaa',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'adminapi.pyg.com',
+)
+[ info ] [ PARAM ] array (
+  '/adminapi/login/captcha' => '',
+)
+[ info ] [ RUN ] app\adminapi\controller\Login->captcha[ F:\pyg\application\adminapi\controller\Login.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-04-28T17:16:23+08:00 ] 127.0.0.1 GET adminapi.pyg.com/adminapi/login/captcha
+[运行时间：0.033524s] [吞吐率：29.83req/s] [内存消耗：1,648.28kb] [文件加载：42]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'adminapi',
+    1 => 'login',
+    2 => 'captcha',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'cookie' => 'PHPSESSID=doph2g8fi6k8j9s9sk6bjsrsaa',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'adminapi.pyg.com',
+)
+[ info ] [ PARAM ] array (
+  '/adminapi/login/captcha' => '',
+)
+[ info ] [ RUN ] app\adminapi\controller\Login->captcha[ F:\pyg\application\adminapi\controller\Login.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-04-28T17:16:24+08:00 ] 127.0.0.1 GET adminapi.pyg.com/captcha
+[运行时间：0.026788s] [吞吐率：37.33req/s] [内存消耗：1,328.33kb] [文件加载：34]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\captcha\\CaptchaController',
+    1 => 'index',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'cookie' => 'PHPSESSID=doph2g8fi6k8j9s9sk6bjsrsaa',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'adminapi.pyg.com',
+)
+[ info ] [ PARAM ] array (
+  '/captcha' => '',
+  'id' => NULL,
+)
+[ info ] [ RUN ] think\captcha\CaptchaController->index[ F:\pyg\vendor\topthink\think-captcha\src\CaptchaController.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-04-28T17:16:28+08:00 ] 127.0.0.1 GET adminapi.pyg.com/adminapi/login/captcha
+[运行时间：0.032071s] [吞吐率：31.18req/s] [内存消耗：1,648.28kb] [文件加载：42]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'adminapi',
+    1 => 'login',
+    2 => 'captcha',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'cookie' => 'PHPSESSID=doph2g8fi6k8j9s9sk6bjsrsaa',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'adminapi.pyg.com',
+)
+[ info ] [ PARAM ] array (
+  '/adminapi/login/captcha' => '',
+)
+[ info ] [ RUN ] app\adminapi\controller\Login->captcha[ F:\pyg\application\adminapi\controller\Login.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-04-28T17:17:06+08:00 ] 127.0.0.1 GET adminapi.pyg.com/adminapi/login/captcha
+[运行时间：0.035499s] [吞吐率：28.17req/s] [内存消耗：1,648.35kb] [文件加载：42]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'adminapi',
+    1 => 'login',
+    2 => 'captcha',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'cookie' => 'PHPSESSID=doph2g8fi6k8j9s9sk6bjsrsaa',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'adminapi.pyg.com',
+)
+[ info ] [ PARAM ] array (
+  '/adminapi/login/captcha' => '',
+)
+[ info ] [ RUN ] app\adminapi\controller\Login->captcha[ F:\pyg\application\adminapi\controller\Login.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-04-28T17:19:55+08:00 ] 127.0.0.1 GET adminapi.pyg.com/adminapi/login/captcha
+[运行时间：0.047399s] [吞吐率：21.10req/s] [内存消耗：1,648.28kb] [文件加载：42]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'adminapi',
+    1 => 'login',
+    2 => 'captcha',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'cookie' => 'PHPSESSID=doph2g8fi6k8j9s9sk6bjsrsaa',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'adminapi.pyg.com',
+)
+[ info ] [ PARAM ] array (
+  '/adminapi/login/captcha' => '',
+)
+[ info ] [ RUN ] app\adminapi\controller\Login->captcha[ F:\pyg\application\adminapi\controller\Login.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-04-28T17:21:04+08:00 ] 127.0.0.1 GET adminapi.pyg.com/adminapi/login/captcha
+[运行时间：0.026468s] [吞吐率：37.78req/s] [内存消耗：1,308.41kb] [文件加载：35]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-04-28T17:21:06+08:00 ] 127.0.0.1 GET adminapi.pyg.com/adminapi/login/captcha
+[运行时间：0.025320s] [吞吐率：39.49req/s] [内存消耗：1,308.41kb] [文件加载：35]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-04-28T17:21:18+08:00 ] 127.0.0.1 GET adminapi.pyg.com/adminapi/index/index
+[运行时间：0.025121s] [吞吐率：39.81req/s] [内存消耗：1,308.41kb] [文件加载：35]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-04-28T17:21:39+08:00 ] 127.0.0.1 GET adminapi.pyg.com/adminapi/index/index
+[运行时间：0.028214s] [吞吐率：35.44req/s] [内存消耗：1,309.15kb] [文件加载：35]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-04-28T17:21:40+08:00 ] 127.0.0.1 GET adminapi.pyg.com/adminapi/index/index
+[运行时间：0.024112s] [吞吐率：41.47req/s] [内存消耗：1,309.15kb] [文件加载：35]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-04-28T17:21:41+08:00 ] 127.0.0.1 GET adminapi.pyg.com/adminapi/index/index
+[运行时间：0.039952s] [吞吐率：25.03req/s] [内存消耗：1,309.15kb] [文件加载：35]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-04-28T17:21:51+08:00 ] 127.0.0.1 GET adminapi.pyg.com/adminapi/index/index
+[运行时间：0.062159s] [吞吐率：16.09req/s] [内存消耗：1,310.11kb] [文件加载：36]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-04-28T17:21:52+08:00 ] 127.0.0.1 GET adminapi.pyg.com/adminapi/index/index
+[运行时间：0.031544s] [吞吐率：31.70req/s] [内存消耗：1,310.11kb] [文件加载：36]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-04-28T17:21:53+08:00 ] 127.0.0.1 GET adminapi.pyg.com/adminapi/index/index
+[运行时间：0.025504s] [吞吐率：39.21req/s] [内存消耗：1,310.11kb] [文件加载：36]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-04-28T17:21:59+08:00 ] 127.0.0.1 GET adminapi.pyg.com/adminapi/index/index
+[运行时间：0.033535s] [吞吐率：29.82req/s] [内存消耗：1,308.41kb] [文件加载：35]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-04-28T17:22:23+08:00 ] 127.0.0.1 GET adminapi.pyg.com/adminapi/index/index
+[运行时间：0.021391s] [吞吐率：46.75req/s] [内存消耗：1,308.23kb] [文件加载：35]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-04-28T17:22:31+08:00 ] 127.0.0.1 GET adminapi.pyg.com/adminapi/index/index
+[运行时间：0.024615s] [吞吐率：40.63req/s] [内存消耗：1,307.08kb] [文件加载：35]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-04-28T17:22:41+08:00 ] 127.0.0.1 GET adminapi.pyg.com/adminapi/login/captcha
+[运行时间：0.031325s] [吞吐率：31.92req/s] [内存消耗：1,308.23kb] [文件加载：35]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-04-28T17:22:45+08:00 ] 127.0.0.1 GET adminapi.pyg.com/adminapi/login/captcha
+[运行时间：0.034669s] [吞吐率：28.84req/s] [内存消耗：1,648.28kb] [文件加载：42]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'adminapi',
+    1 => 'login',
+    2 => 'captcha',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'cookie' => 'PHPSESSID=doph2g8fi6k8j9s9sk6bjsrsaa',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'adminapi.pyg.com',
+)
+[ info ] [ PARAM ] array (
+  '/adminapi/login/captcha' => '',
+)
+[ info ] [ RUN ] app\adminapi\controller\Login->captcha[ F:\pyg\application\adminapi\controller\Login.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-04-28T17:22:54+08:00 ] 127.0.0.1 GET adminapi.pyg.com/adminapi/login/captcha
+[运行时间：0.022391s] [吞吐率：44.66req/s] [内存消耗：1,310.80kb] [文件加载：35]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-04-28T17:22:55+08:00 ] 127.0.0.1 GET adminapi.pyg.com/adminapi/login/captcha
+[运行时间：0.029812s] [吞吐率：33.54req/s] [内存消耗：1,310.80kb] [文件加载：35]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-04-28T17:22:56+08:00 ] 127.0.0.1 GET adminapi.pyg.com/adminapi/login/captcha
+[运行时间：0.021893s] [吞吐率：45.68req/s] [内存消耗：1,310.80kb] [文件加载：35]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-04-28T17:23:03+08:00 ] 127.0.0.1 GET adminapi.pyg.com/index.php/adminapi/login/captcha
+[运行时间：0.030653s] [吞吐率：32.62req/s] [内存消耗：1,307.89kb] [文件加载：35]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-04-28T17:24:44+08:00 ] 127.0.0.1 GET adminapi.pyg.com/adminapi/login/captcha
+[运行时间：0.040175s] [吞吐率：24.89req/s] [内存消耗：1,648.28kb] [文件加载：42]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'adminapi',
+    1 => 'login',
+    2 => 'captcha',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'cookie' => 'PHPSESSID=doph2g8fi6k8j9s9sk6bjsrsaa',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'adminapi.pyg.com',
+)
+[ info ] [ PARAM ] array (
+  '/adminapi/login/captcha' => '',
+)
+[ info ] [ RUN ] app\adminapi\controller\Login->captcha[ F:\pyg\application\adminapi\controller\Login.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-04-28T17:25:08+08:00 ] 127.0.0.1 GET adminapi.pyg.com/adminapi/login/captcha
+[运行时间：0.024804s] [吞吐率：40.32req/s] [内存消耗：1,308.41kb] [文件加载：35]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-04-28T17:26:53+08:00 ] 127.0.0.1 GET adminapi.pyg.com/adminapi/login/captcha
+[运行时间：0.030325s] [吞吐率：32.98req/s] [内存消耗：1,308.41kb] [文件加载：35]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-04-28T17:26:58+08:00 ] 127.0.0.1 GET adminapi.pyg.com/captcha
+[运行时间：0.089707s] [吞吐率：11.15req/s] [内存消耗：1,329.66kb] [文件加载：34]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\captcha\\CaptchaController',
+    1 => 'index',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'cookie' => 'PHPSESSID=doph2g8fi6k8j9s9sk6bjsrsaa',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'adminapi.pyg.com',
+)
+[ info ] [ PARAM ] array (
+  '/captcha' => '',
+  'id' => NULL,
+)
+[ info ] [ RUN ] think\captcha\CaptchaController->index[ F:\pyg\vendor\topthink\think-captcha\src\CaptchaController.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-04-28T17:27:00+08:00 ] 127.0.0.1 GET adminapi.pyg.com/captcha
+[运行时间：0.047851s] [吞吐率：20.90req/s] [内存消耗：1,330.30kb] [文件加载：34]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\captcha\\CaptchaController',
+    1 => 'index',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'cookie' => 'PHPSESSID=doph2g8fi6k8j9s9sk6bjsrsaa',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'adminapi.pyg.com',
+)
+[ info ] [ PARAM ] array (
+  '/captcha' => '',
+  'id' => NULL,
+)
+[ info ] [ RUN ] think\captcha\CaptchaController->index[ F:\pyg\vendor\topthink\think-captcha\src\CaptchaController.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-04-28T17:27:01+08:00 ] 127.0.0.1 GET adminapi.pyg.com/captcha
+[运行时间：0.048139s] [吞吐率：20.77req/s] [内存消耗：1,330.30kb] [文件加载：34]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\captcha\\CaptchaController',
+    1 => 'index',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'cookie' => 'PHPSESSID=doph2g8fi6k8j9s9sk6bjsrsaa',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'adminapi.pyg.com',
+)
+[ info ] [ PARAM ] array (
+  '/captcha' => '',
+  'id' => NULL,
+)
+[ info ] [ RUN ] think\captcha\CaptchaController->index[ F:\pyg\vendor\topthink\think-captcha\src\CaptchaController.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-04-28T17:27:02+08:00 ] 127.0.0.1 GET adminapi.pyg.com/captcha
+[运行时间：0.026626s] [吞吐率：37.56req/s] [内存消耗：1,330.30kb] [文件加载：34]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\captcha\\CaptchaController',
+    1 => 'index',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'cookie' => 'PHPSESSID=doph2g8fi6k8j9s9sk6bjsrsaa',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'adminapi.pyg.com',
+)
+[ info ] [ PARAM ] array (
+  '/captcha' => '',
+  'id' => NULL,
+)
+[ info ] [ RUN ] think\captcha\CaptchaController->index[ F:\pyg\vendor\topthink\think-captcha\src\CaptchaController.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-04-28T17:27:02+08:00 ] 127.0.0.1 GET adminapi.pyg.com/captcha
+[运行时间：0.024196s] [吞吐率：41.33req/s] [内存消耗：1,330.30kb] [文件加载：34]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\captcha\\CaptchaController',
+    1 => 'index',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'cookie' => 'PHPSESSID=doph2g8fi6k8j9s9sk6bjsrsaa',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'adminapi.pyg.com',
+)
+[ info ] [ PARAM ] array (
+  '/captcha' => '',
+  'id' => NULL,
+)
+[ info ] [ RUN ] think\captcha\CaptchaController->index[ F:\pyg\vendor\topthink\think-captcha\src\CaptchaController.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-04-28T17:27:03+08:00 ] 127.0.0.1 GET adminapi.pyg.com/captcha
+[运行时间：0.025517s] [吞吐率：39.19req/s] [内存消耗：1,330.30kb] [文件加载：34]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\captcha\\CaptchaController',
+    1 => 'index',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'cookie' => 'PHPSESSID=doph2g8fi6k8j9s9sk6bjsrsaa',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'adminapi.pyg.com',
+)
+[ info ] [ PARAM ] array (
+  '/captcha' => '',
+  'id' => NULL,
+)
+[ info ] [ RUN ] think\captcha\CaptchaController->index[ F:\pyg\vendor\topthink\think-captcha\src\CaptchaController.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-04-28T17:27:25+08:00 ] 127.0.0.1 GET adminapi.pyg.com/captcha
+[运行时间：0.041593s] [吞吐率：24.04req/s] [内存消耗：1,330.30kb] [文件加载：34]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\captcha\\CaptchaController',
+    1 => 'index',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'cookie' => 'PHPSESSID=doph2g8fi6k8j9s9sk6bjsrsaa',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'adminapi.pyg.com',
+)
+[ info ] [ PARAM ] array (
+  '/captcha' => '',
+  'id' => NULL,
+)
+[ info ] [ RUN ] think\captcha\CaptchaController->index[ F:\pyg\vendor\topthink\think-captcha\src\CaptchaController.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-04-28T17:27:47+08:00 ] 127.0.0.1 GET adminapi.pyg.com/captchas
+[运行时间：0.032427s] [吞吐率：30.84req/s] [内存消耗：1,313.30kb] [文件加载：35]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'captchas',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'cookie' => 'PHPSESSID=doph2g8fi6k8j9s9sk6bjsrsaa',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'adminapi.pyg.com',
+)
+[ info ] [ PARAM ] array (
+  '/captchas' => '',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-04-28T17:28:09+08:00 ] 127.0.0.1 GET adminapi.pyg.com/captchas
+[运行时间：0.022431s] [吞吐率：44.58req/s] [内存消耗：1,314.07kb] [文件加载：35]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'captchas',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'cookie' => 'PHPSESSID=doph2g8fi6k8j9s9sk6bjsrsaa',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'adminapi.pyg.com',
+)
+[ info ] [ PARAM ] array (
+  '/captchas' => '',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-04-28T17:28:17+08:00 ] 127.0.0.1 GET adminapi.pyg.com/captchas
+[运行时间：0.023612s] [吞吐率：42.35req/s] [内存消耗：1,314.06kb] [文件加载：35]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'captchas',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'cookie' => 'PHPSESSID=doph2g8fi6k8j9s9sk6bjsrsaa',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'adminapi.pyg.com',
+)
+[ info ] [ PARAM ] array (
+  '/captchas' => '',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-04-28T17:28:50+08:00 ] 127.0.0.1 GET adminapi.pyg.com/captchas
+[运行时间：0.027293s] [吞吐率：36.64req/s] [内存消耗：1,314.06kb] [文件加载：35]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'captchas',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'cookie' => 'PHPSESSID=doph2g8fi6k8j9s9sk6bjsrsaa',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'adminapi.pyg.com',
+)
+[ info ] [ PARAM ] array (
+  '/captchas' => '',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-04-28T17:28:50+08:00 ] 127.0.0.1 GET adminapi.pyg.com/captchas
+[运行时间：0.028946s] [吞吐率：34.55req/s] [内存消耗：1,314.06kb] [文件加载：35]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'captchas',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'cookie' => 'PHPSESSID=doph2g8fi6k8j9s9sk6bjsrsaa',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'adminapi.pyg.com',
+)
+[ info ] [ PARAM ] array (
+  '/captchas' => '',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-04-28T17:29:02+08:00 ] 127.0.0.1 GET adminapi.pyg.com/captcha
+[运行时间：0.041349s] [吞吐率：24.18req/s] [内存消耗：1,329.66kb] [文件加载：34]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\captcha\\CaptchaController',
+    1 => 'index',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'cookie' => 'PHPSESSID=doph2g8fi6k8j9s9sk6bjsrsaa',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'adminapi.pyg.com',
+)
+[ info ] [ PARAM ] array (
+  '/captcha' => '',
+  'id' => NULL,
+)
+[ info ] [ RUN ] think\captcha\CaptchaController->index[ F:\pyg\vendor\topthink\think-captcha\src\CaptchaController.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-04-28T17:29:27+08:00 ] 127.0.0.1 GET adminapi.pyg.com/captcha
+[运行时间：0.037499s] [吞吐率：26.67req/s] [内存消耗：1,330.30kb] [文件加载：34]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\captcha\\CaptchaController',
+    1 => 'index',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'cookie' => 'PHPSESSID=doph2g8fi6k8j9s9sk6bjsrsaa',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'adminapi.pyg.com',
+)
+[ info ] [ PARAM ] array (
+  '/captcha' => '',
+  'id' => NULL,
+)
+[ info ] [ RUN ] think\captcha\CaptchaController->index[ F:\pyg\vendor\topthink\think-captcha\src\CaptchaController.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-04-28T17:29:27+08:00 ] 127.0.0.1 GET adminapi.pyg.com/captcha
+[运行时间：0.024745s] [吞吐率：40.41req/s] [内存消耗：1,330.30kb] [文件加载：34]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\captcha\\CaptchaController',
+    1 => 'index',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'cookie' => 'PHPSESSID=doph2g8fi6k8j9s9sk6bjsrsaa',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'adminapi.pyg.com',
+)
+[ info ] [ PARAM ] array (
+  '/captcha' => '',
+  'id' => NULL,
+)
+[ info ] [ RUN ] think\captcha\CaptchaController->index[ F:\pyg\vendor\topthink\think-captcha\src\CaptchaController.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-04-28T17:29:33+08:00 ] 127.0.0.1 GET adminapi.pyg.com/captcha
+[运行时间：0.029804s] [吞吐率：33.55req/s] [内存消耗：1,330.34kb] [文件加载：34]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\captcha\\CaptchaController',
+    1 => 'index',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'cookie' => 'PHPSESSID=doph2g8fi6k8j9s9sk6bjsrsaa',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'adminapi.pyg.com',
+)
+[ info ] [ PARAM ] array (
+  '/captcha' => '',
+  'id' => NULL,
+)
+[ info ] [ RUN ] think\captcha\CaptchaController->index[ F:\pyg\vendor\topthink\think-captcha\src\CaptchaController.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-04-28T17:29:33+08:00 ] 127.0.0.1 GET adminapi.pyg.com/captcha
+[运行时间：0.024107s] [吞吐率：41.48req/s] [内存消耗：1,330.34kb] [文件加载：34]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\captcha\\CaptchaController',
+    1 => 'index',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'cookie' => 'PHPSESSID=doph2g8fi6k8j9s9sk6bjsrsaa',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'adminapi.pyg.com',
+)
+[ info ] [ PARAM ] array (
+  '/captcha' => '',
+  'id' => NULL,
+)
+[ info ] [ RUN ] think\captcha\CaptchaController->index[ F:\pyg\vendor\topthink\think-captcha\src\CaptchaController.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-04-28T17:29:36+08:00 ] 127.0.0.1 GET adminapi.pyg.com/captchas
+[运行时间：0.030009s] [吞吐率：33.32req/s] [内存消耗：1,313.30kb] [文件加载：35]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'captchas',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'cookie' => 'PHPSESSID=doph2g8fi6k8j9s9sk6bjsrsaa',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'adminapi.pyg.com',
+)
+[ info ] [ PARAM ] array (
+  '/captchas' => '',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-04-28T17:29:39+08:00 ] 127.0.0.1 GET adminapi.pyg.com/captchas
+[运行时间：0.029774s] [吞吐率：33.59req/s] [内存消耗：1,314.07kb] [文件加载：35]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'captchas',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'cookie' => 'PHPSESSID=doph2g8fi6k8j9s9sk6bjsrsaa',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'adminapi.pyg.com',
+)
+[ info ] [ PARAM ] array (
+  '/captchas' => '',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-04-28T17:29:46+08:00 ] 127.0.0.1 GET adminapi.pyg.com/captchas
+[运行时间：0.023384s] [吞吐率：42.76req/s] [内存消耗：1,314.07kb] [文件加载：35]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'captchas',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'cookie' => 'PHPSESSID=doph2g8fi6k8j9s9sk6bjsrsaa',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'adminapi.pyg.com',
+)
+[ info ] [ PARAM ] array (
+  '/captchas' => '',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-04-28T17:30:38+08:00 ] 127.0.0.1 GET adminapi.pyg.com/captchas
+[运行时间：0.101599s] [吞吐率：9.84req/s] [内存消耗：1,596.20kb] [文件加载：40]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'adminapi',
+    1 => 'login',
+    2 => 'captchas',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'cookie' => 'PHPSESSID=doph2g8fi6k8j9s9sk6bjsrsaa',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'adminapi.pyg.com',
+)
+[ info ] [ PARAM ] array (
+  '/captchas' => '',
+)
+[ info ] [ RUN ] app\adminapi\controller\Login->captchas[ F:\pyg\application\adminapi\controller\Login.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-04-28T17:30:39+08:00 ] 127.0.0.1 GET adminapi.pyg.com/captchas
+[运行时间：0.034368s] [吞吐率：29.10req/s] [内存消耗：1,596.20kb] [文件加载：40]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'adminapi',
+    1 => 'login',
+    2 => 'captchas',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'cookie' => 'PHPSESSID=doph2g8fi6k8j9s9sk6bjsrsaa',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'adminapi.pyg.com',
+)
+[ info ] [ PARAM ] array (
+  '/captchas' => '',
+)
+[ info ] [ RUN ] app\adminapi\controller\Login->captchas[ F:\pyg\application\adminapi\controller\Login.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-04-28T17:30:54+08:00 ] 127.0.0.1 GET adminapi.pyg.com/captchas
+[运行时间：0.051124s] [吞吐率：19.56req/s] [内存消耗：1,652.80kb] [文件加载：42]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'adminapi',
+    1 => 'login',
+    2 => 'captchas',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'cookie' => 'PHPSESSID=doph2g8fi6k8j9s9sk6bjsrsaa',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'adminapi.pyg.com',
+)
+[ info ] [ PARAM ] array (
+  '/captchas' => '',
+)
+[ info ] [ RUN ] app\adminapi\controller\Login->captchas[ F:\pyg\application\adminapi\controller\Login.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-04-28T17:31:03+08:00 ] 127.0.0.1 GET adminapi.pyg.com/captchas
+[运行时间：0.031860s] [吞吐率：31.39req/s] [内存消耗：1,316.41kb] [文件加载：35]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'captchas',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'cookie' => 'PHPSESSID=doph2g8fi6k8j9s9sk6bjsrsaa',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'adminapi.pyg.com',
+)
+[ info ] [ PARAM ] array (
+  '/captchas' => '',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-04-28T17:31:06+08:00 ] 127.0.0.1 GET adminapi.pyg.com/captcha
+[运行时间：0.042424s] [吞吐率：23.57req/s] [内存消耗：1,652.09kb] [文件加载：42]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'adminapi',
+    1 => 'login',
+    2 => 'captchas',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'cookie' => 'PHPSESSID=doph2g8fi6k8j9s9sk6bjsrsaa',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'adminapi.pyg.com',
+)
+[ info ] [ PARAM ] array (
+  '/captcha' => '',
+)
+[ info ] [ RUN ] app\adminapi\controller\Login->captchas[ F:\pyg\application\adminapi\controller\Login.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-04-28T17:31:30+08:00 ] 127.0.0.1 GET adminapi.pyg.com/captcha
+[运行时间：0.042282s] [吞吐率：23.65req/s] [内存消耗：1,332.88kb] [文件加载：34]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\captcha\\CaptchaController',
+    1 => 'index',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'cookie' => 'PHPSESSID=doph2g8fi6k8j9s9sk6bjsrsaa',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'adminapi.pyg.com',
+)
+[ info ] [ PARAM ] array (
+  '/captcha' => '',
+  'id' => NULL,
+)
+[ info ] [ RUN ] think\captcha\CaptchaController->index[ F:\pyg\vendor\topthink\think-captcha\src\CaptchaController.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-04-28T17:31:31+08:00 ] 127.0.0.1 GET adminapi.pyg.com/captcha
+[运行时间：0.029308s] [吞吐率：34.12req/s] [内存消耗：1,332.88kb] [文件加载：34]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\captcha\\CaptchaController',
+    1 => 'index',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'cookie' => 'PHPSESSID=doph2g8fi6k8j9s9sk6bjsrsaa',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'adminapi.pyg.com',
+)
+[ info ] [ PARAM ] array (
+  '/captcha' => '',
+  'id' => NULL,
+)
+[ info ] [ RUN ] think\captcha\CaptchaController->index[ F:\pyg\vendor\topthink\think-captcha\src\CaptchaController.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-04-28T17:31:31+08:00 ] 127.0.0.1 GET adminapi.pyg.com/captcha
+[运行时间：0.026925s] [吞吐率：37.14req/s] [内存消耗：1,332.88kb] [文件加载：34]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\captcha\\CaptchaController',
+    1 => 'index',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'cookie' => 'PHPSESSID=doph2g8fi6k8j9s9sk6bjsrsaa',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'adminapi.pyg.com',
+)
+[ info ] [ PARAM ] array (
+  '/captcha' => '',
+  'id' => NULL,
+)
+[ info ] [ RUN ] think\captcha\CaptchaController->index[ F:\pyg\vendor\topthink\think-captcha\src\CaptchaController.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-04-28T17:31:31+08:00 ] 127.0.0.1 GET adminapi.pyg.com/captcha
+[运行时间：0.025625s] [吞吐率：39.02req/s] [内存消耗：1,332.88kb] [文件加载：34]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\captcha\\CaptchaController',
+    1 => 'index',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'cookie' => 'PHPSESSID=doph2g8fi6k8j9s9sk6bjsrsaa',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'adminapi.pyg.com',
+)
+[ info ] [ PARAM ] array (
+  '/captcha' => '',
+  'id' => NULL,
+)
+[ info ] [ RUN ] think\captcha\CaptchaController->index[ F:\pyg\vendor\topthink\think-captcha\src\CaptchaController.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-04-28T17:31:31+08:00 ] 127.0.0.1 GET adminapi.pyg.com/captcha
+[运行时间：0.027812s] [吞吐率：35.96req/s] [内存消耗：1,332.88kb] [文件加载：34]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\captcha\\CaptchaController',
+    1 => 'index',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'cookie' => 'PHPSESSID=doph2g8fi6k8j9s9sk6bjsrsaa',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'adminapi.pyg.com',
+)
+[ info ] [ PARAM ] array (
+  '/captcha' => '',
+  'id' => NULL,
+)
+[ info ] [ RUN ] think\captcha\CaptchaController->index[ F:\pyg\vendor\topthink\think-captcha\src\CaptchaController.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-04-28T17:31:31+08:00 ] 127.0.0.1 GET adminapi.pyg.com/captcha
+[运行时间：0.026022s] [吞吐率：38.43req/s] [内存消耗：1,332.88kb] [文件加载：34]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\captcha\\CaptchaController',
+    1 => 'index',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'cookie' => 'PHPSESSID=doph2g8fi6k8j9s9sk6bjsrsaa',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'adminapi.pyg.com',
+)
+[ info ] [ PARAM ] array (
+  '/captcha' => '',
+  'id' => NULL,
+)
+[ info ] [ RUN ] think\captcha\CaptchaController->index[ F:\pyg\vendor\topthink\think-captcha\src\CaptchaController.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-04-28T17:31:32+08:00 ] 127.0.0.1 GET adminapi.pyg.com/captcha
+[运行时间：0.026308s] [吞吐率：38.01req/s] [内存消耗：1,332.88kb] [文件加载：34]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\captcha\\CaptchaController',
+    1 => 'index',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'cookie' => 'PHPSESSID=doph2g8fi6k8j9s9sk6bjsrsaa',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'adminapi.pyg.com',
+)
+[ info ] [ PARAM ] array (
+  '/captcha' => '',
+  'id' => NULL,
+)
+[ info ] [ RUN ] think\captcha\CaptchaController->index[ F:\pyg\vendor\topthink\think-captcha\src\CaptchaController.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-04-28T17:31:32+08:00 ] 127.0.0.1 GET adminapi.pyg.com/captcha
+[运行时间：0.028056s] [吞吐率：35.64req/s] [内存消耗：1,332.88kb] [文件加载：34]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\captcha\\CaptchaController',
+    1 => 'index',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'cookie' => 'PHPSESSID=doph2g8fi6k8j9s9sk6bjsrsaa',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'adminapi.pyg.com',
+)
+[ info ] [ PARAM ] array (
+  '/captcha' => '',
+  'id' => NULL,
+)
+[ info ] [ RUN ] think\captcha\CaptchaController->index[ F:\pyg\vendor\topthink\think-captcha\src\CaptchaController.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-04-28T17:31:32+08:00 ] 127.0.0.1 GET adminapi.pyg.com/captcha
+[运行时间：0.026737s] [吞吐率：37.40req/s] [内存消耗：1,332.88kb] [文件加载：34]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\captcha\\CaptchaController',
+    1 => 'index',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'cookie' => 'PHPSESSID=doph2g8fi6k8j9s9sk6bjsrsaa',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'adminapi.pyg.com',
+)
+[ info ] [ PARAM ] array (
+  '/captcha' => '',
+  'id' => NULL,
+)
+[ info ] [ RUN ] think\captcha\CaptchaController->index[ F:\pyg\vendor\topthink\think-captcha\src\CaptchaController.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-04-28T17:31:32+08:00 ] 127.0.0.1 GET adminapi.pyg.com/captcha
+[运行时间：0.028622s] [吞吐率：34.94req/s] [内存消耗：1,332.88kb] [文件加载：34]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\captcha\\CaptchaController',
+    1 => 'index',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'cookie' => 'PHPSESSID=doph2g8fi6k8j9s9sk6bjsrsaa',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'adminapi.pyg.com',
+)
+[ info ] [ PARAM ] array (
+  '/captcha' => '',
+  'id' => NULL,
+)
+[ info ] [ RUN ] think\captcha\CaptchaController->index[ F:\pyg\vendor\topthink\think-captcha\src\CaptchaController.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-04-28T17:31:32+08:00 ] 127.0.0.1 GET adminapi.pyg.com/captcha
+[运行时间：0.026797s] [吞吐率：37.32req/s] [内存消耗：1,332.88kb] [文件加载：34]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\captcha\\CaptchaController',
+    1 => 'index',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'cookie' => 'PHPSESSID=doph2g8fi6k8j9s9sk6bjsrsaa',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'adminapi.pyg.com',
+)
+[ info ] [ PARAM ] array (
+  '/captcha' => '',
+  'id' => NULL,
+)
+[ info ] [ RUN ] think\captcha\CaptchaController->index[ F:\pyg\vendor\topthink\think-captcha\src\CaptchaController.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-04-28T17:31:33+08:00 ] 127.0.0.1 GET adminapi.pyg.com/captcha
+[运行时间：0.027108s] [吞吐率：36.89req/s] [内存消耗：1,332.88kb] [文件加载：34]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\captcha\\CaptchaController',
+    1 => 'index',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'cookie' => 'PHPSESSID=doph2g8fi6k8j9s9sk6bjsrsaa',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'adminapi.pyg.com',
+)
+[ info ] [ PARAM ] array (
+  '/captcha' => '',
+  'id' => NULL,
+)
+[ info ] [ RUN ] think\captcha\CaptchaController->index[ F:\pyg\vendor\topthink\think-captcha\src\CaptchaController.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-04-28T17:31:33+08:00 ] 127.0.0.1 GET adminapi.pyg.com/captcha
+[运行时间：0.027808s] [吞吐率：35.96req/s] [内存消耗：1,332.88kb] [文件加载：34]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\captcha\\CaptchaController',
+    1 => 'index',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'cookie' => 'PHPSESSID=doph2g8fi6k8j9s9sk6bjsrsaa',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'adminapi.pyg.com',
+)
+[ info ] [ PARAM ] array (
+  '/captcha' => '',
+  'id' => NULL,
+)
+[ info ] [ RUN ] think\captcha\CaptchaController->index[ F:\pyg\vendor\topthink\think-captcha\src\CaptchaController.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-04-28T17:31:33+08:00 ] 127.0.0.1 GET adminapi.pyg.com/captcha
+[运行时间：0.029640s] [吞吐率：33.74req/s] [内存消耗：1,332.88kb] [文件加载：34]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\captcha\\CaptchaController',
+    1 => 'index',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'cookie' => 'PHPSESSID=doph2g8fi6k8j9s9sk6bjsrsaa',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'adminapi.pyg.com',
+)
+[ info ] [ PARAM ] array (
+  '/captcha' => '',
+  'id' => NULL,
+)
+[ info ] [ RUN ] think\captcha\CaptchaController->index[ F:\pyg\vendor\topthink\think-captcha\src\CaptchaController.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-04-28T17:31:42+08:00 ] 127.0.0.1 GET adminapi.pyg.com/captcha
+[运行时间：0.028658s] [吞吐率：34.89req/s] [内存消耗：1,656.17kb] [文件加载：42]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'adminapi',
+    1 => 'login',
+    2 => 'captcha',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'cookie' => 'PHPSESSID=doph2g8fi6k8j9s9sk6bjsrsaa',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'adminapi.pyg.com',
+)
+[ info ] [ PARAM ] array (
+  '/captcha' => '',
+)
+[ info ] [ RUN ] app\adminapi\controller\Login->captcha[ F:\pyg\application\adminapi\controller\Login.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-04-28T17:31:42+08:00 ] 127.0.0.1 GET adminapi.pyg.com/captcha
+[运行时间：0.026610s] [吞吐率：37.58req/s] [内存消耗：1,656.17kb] [文件加载：42]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'adminapi',
+    1 => 'login',
+    2 => 'captcha',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'cookie' => 'PHPSESSID=doph2g8fi6k8j9s9sk6bjsrsaa',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'adminapi.pyg.com',
+)
+[ info ] [ PARAM ] array (
+  '/captcha' => '',
+)
+[ info ] [ RUN ] app\adminapi\controller\Login->captcha[ F:\pyg\application\adminapi\controller\Login.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-04-28T17:31:43+08:00 ] 127.0.0.1 GET adminapi.pyg.com/captcha
+[运行时间：0.030504s] [吞吐率：32.78req/s] [内存消耗：1,656.17kb] [文件加载：42]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'adminapi',
+    1 => 'login',
+    2 => 'captcha',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'cookie' => 'PHPSESSID=doph2g8fi6k8j9s9sk6bjsrsaa',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'adminapi.pyg.com',
+)
+[ info ] [ PARAM ] array (
+  '/captcha' => '',
+)
+[ info ] [ RUN ] app\adminapi\controller\Login->captcha[ F:\pyg\application\adminapi\controller\Login.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-04-28T17:31:43+08:00 ] 127.0.0.1 GET adminapi.pyg.com/captcha
+[运行时间：0.028168s] [吞吐率：35.50req/s] [内存消耗：1,656.17kb] [文件加载：42]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'adminapi',
+    1 => 'login',
+    2 => 'captcha',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'cookie' => 'PHPSESSID=doph2g8fi6k8j9s9sk6bjsrsaa',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'adminapi.pyg.com',
+)
+[ info ] [ PARAM ] array (
+  '/captcha' => '',
+)
+[ info ] [ RUN ] app\adminapi\controller\Login->captcha[ F:\pyg\application\adminapi\controller\Login.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-04-28T17:31:43+08:00 ] 127.0.0.1 GET adminapi.pyg.com/captcha
+[运行时间：0.029021s] [吞吐率：34.46req/s] [内存消耗：1,656.17kb] [文件加载：42]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'adminapi',
+    1 => 'login',
+    2 => 'captcha',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'cookie' => 'PHPSESSID=doph2g8fi6k8j9s9sk6bjsrsaa',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'adminapi.pyg.com',
+)
+[ info ] [ PARAM ] array (
+  '/captcha' => '',
+)
+[ info ] [ RUN ] app\adminapi\controller\Login->captcha[ F:\pyg\application\adminapi\controller\Login.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-04-28T17:31:45+08:00 ] 127.0.0.1 GET adminapi.pyg.com/captcha
+[运行时间：0.032312s] [吞吐率：30.95req/s] [内存消耗：1,656.17kb] [文件加载：42]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'adminapi',
+    1 => 'login',
+    2 => 'captcha',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'cookie' => 'PHPSESSID=doph2g8fi6k8j9s9sk6bjsrsaa',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'adminapi.pyg.com',
+)
+[ info ] [ PARAM ] array (
+  '/captcha' => '',
+)
+[ info ] [ RUN ] app\adminapi\controller\Login->captcha[ F:\pyg\application\adminapi\controller\Login.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-04-28T17:33:31+08:00 ] 127.0.0.1 GET adminapi.pyg.com/captcha
+[运行时间：0.058809s] [吞吐率：17.00req/s] [内存消耗：1,656.21kb] [文件加载：42]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'adminapi',
+    1 => 'login',
+    2 => 'captcha',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'cookie' => 'PHPSESSID=doph2g8fi6k8j9s9sk6bjsrsaa',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'adminapi.pyg.com',
+)
+[ info ] [ PARAM ] array (
+  '/captcha' => '',
+)
+[ info ] [ RUN ] app\adminapi\controller\Login->captcha[ F:\pyg\application\adminapi\controller\Login.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-04-28T17:33:37+08:00 ] 127.0.0.1 GET adminapi.pyg.com/captchas
+[运行时间：0.030275s] [吞吐率：33.03req/s] [内存消耗：1,319.95kb] [文件加载：35]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'captchas',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'cookie' => 'PHPSESSID=doph2g8fi6k8j9s9sk6bjsrsaa',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'adminapi.pyg.com',
+)
+[ info ] [ PARAM ] array (
+  '/captchas' => '',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-04-28T17:33:39+08:00 ] 127.0.0.1 GET adminapi.pyg.com/captchas
+[运行时间：0.032326s] [吞吐率：30.93req/s] [内存消耗：1,319.95kb] [文件加载：35]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'captchas',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'cookie' => 'PHPSESSID=doph2g8fi6k8j9s9sk6bjsrsaa',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'adminapi.pyg.com',
+)
+[ info ] [ PARAM ] array (
+  '/captchas' => '',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-04-28T17:33:51+08:00 ] 127.0.0.1 GET adminapi.pyg.com/captchas
+[运行时间：0.024139s] [吞吐率：41.43req/s] [内存消耗：1,317.38kb] [文件加载：35]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'captchas',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'cookie' => 'PHPSESSID=doph2g8fi6k8j9s9sk6bjsrsaa',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'adminapi.pyg.com',
+)
+[ info ] [ PARAM ] array (
+  '/captchas' => '',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-04-28T17:33:52+08:00 ] 127.0.0.1 GET adminapi.pyg.com/captchas
+[运行时间：0.027527s] [吞吐率：36.33req/s] [内存消耗：1,317.38kb] [文件加载：35]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'captchas',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'cookie' => 'PHPSESSID=doph2g8fi6k8j9s9sk6bjsrsaa',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'adminapi.pyg.com',
+)
+[ info ] [ PARAM ] array (
+  '/captchas' => '',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-04-28T17:34:04+08:00 ] 127.0.0.1 GET adminapi.pyg.com/captchas
+[运行时间：0.026608s] [吞吐率：37.58req/s] [内存消耗：1,317.38kb] [文件加载：35]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'captchas',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'cookie' => 'PHPSESSID=doph2g8fi6k8j9s9sk6bjsrsaa',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'adminapi.pyg.com',
+)
+[ info ] [ PARAM ] array (
+  '/captchas' => '',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-04-28T17:34:15+08:00 ] 127.0.0.1 GET adminapi.pyg.com/
+[运行时间：0.045812s] [吞吐率：21.83req/s] [内存消耗：1,273.48kb] [文件加载：33]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'cookie' => 'PHPSESSID=doph2g8fi6k8j9s9sk6bjsrsaa',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'adminapi.pyg.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ F:\pyg\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-04-28T17:37:00+08:00 ] 127.0.0.1 GET adminapi.pyg.com/
+[运行时间：0.386712s] [吞吐率：2.59req/s] [内存消耗：1,824.85kb] [文件加载：62]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'adminapi',
+    1 => 'index',
+    2 => 'index',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'cookie' => 'PHPSESSID=doph2g8fi6k8j9s9sk6bjsrsaa',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'adminapi.pyg.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\adminapi\controller\Index->index[ F:\pyg\application\adminapi\controller\Index.php ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-04-28T17:37:09+08:00 ] 127.0.0.1 GET adminapi.pyg.com/captcha
+[运行时间：0.027691s] [吞吐率：36.11req/s] [内存消耗：1,316.59kb] [文件加载：35]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'captcha',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'cookie' => 'PHPSESSID=doph2g8fi6k8j9s9sk6bjsrsaa',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'adminapi.pyg.com',
+)
+[ info ] [ PARAM ] array (
+  '/captcha' => '',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-04-28T17:37:20+08:00 ] 127.0.0.1 GET adminapi.pyg.com/captcha
+[运行时间：0.029509s] [吞吐率：33.89req/s] [内存消耗：1,650.34kb] [文件加载：42]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'adminapi',
+    1 => 'login',
+    2 => 'captcha',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'cookie' => 'PHPSESSID=doph2g8fi6k8j9s9sk6bjsrsaa',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'adminapi.pyg.com',
+)
+[ info ] [ PARAM ] array (
+  '/captcha' => '',
+)
+[ info ] [ RUN ] app\adminapi\controller\Login->captcha[ F:\pyg\application\adminapi\controller\Login.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-04-28T17:37:23+08:00 ] 127.0.0.1 GET adminapi.pyg.com/captcha
+[运行时间：0.036564s] [吞吐率：27.35req/s] [内存消耗：1,650.34kb] [文件加载：42]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'adminapi',
+    1 => 'login',
+    2 => 'captcha',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'cookie' => 'PHPSESSID=doph2g8fi6k8j9s9sk6bjsrsaa',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'adminapi.pyg.com',
+)
+[ info ] [ PARAM ] array (
+  '/captcha' => '',
+)
+[ info ] [ RUN ] app\adminapi\controller\Login->captcha[ F:\pyg\application\adminapi\controller\Login.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-04-28T17:40:00+08:00 ] 127.0.0.1 GET adminapi.pyg.com//captcha//636607626a6053af7b4.html
+[运行时间：0.044253s] [吞吐率：22.60req/s] [内存消耗：1,649.91kb] [文件加载：42]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'adminapi',
+    1 => 'login',
+    2 => 'captcha',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'cookie' => 'PHPSESSID=doph2g8fi6k8j9s9sk6bjsrsaa',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'adminapi.pyg.com',
+)
+[ info ] [ PARAM ] array (
+  '/captcha/636607626a6053af7b4_html' => '',
+)
+[ info ] [ RUN ] app\adminapi\controller\Login->captcha[ F:\pyg\application\adminapi\controller\Login.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-04-28T17:40:34+08:00 ] 127.0.0.1 GET adminapi.pyg.com/captcha/982300626a60f066d84.html
+[运行时间：0.033057s] [吞吐率：30.25req/s] [内存消耗：1,649.91kb] [文件加载：42]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'adminapi',
+    1 => 'login',
+    2 => 'captcha',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'cookie' => 'PHPSESSID=doph2g8fi6k8j9s9sk6bjsrsaa',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'adminapi.pyg.com',
+)
+[ info ] [ PARAM ] array (
+  '/captcha/982300626a60f066d84_html' => '',
+)
+[ info ] [ RUN ] app\adminapi\controller\Login->captcha[ F:\pyg\application\adminapi\controller\Login.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-04-28T17:43:31+08:00 ] 127.0.0.1 GET adminapi.pyg.com/captcha/982300626a60f066d84.html
+[运行时间：0.042510s] [吞吐率：23.52req/s] [内存消耗：1,652.46kb] [文件加载：42]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'adminapi',
+    1 => 'login',
+    2 => 'captcha',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'cookie' => 'PHPSESSID=doph2g8fi6k8j9s9sk6bjsrsaa',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'adminapi.pyg.com',
+)
+[ info ] [ PARAM ] array (
+  '/captcha/982300626a60f066d84_html' => '',
+)
+[ info ] [ RUN ] app\adminapi\controller\Login->captcha[ F:\pyg\application\adminapi\controller\Login.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-04-28T17:43:37+08:00 ] 127.0.0.1 GET adminapi.pyg.com//captcha//427311626a61c305a98.html
+[运行时间：0.039085s] [吞吐率：25.59req/s] [内存消耗：1,651.82kb] [文件加载：42]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'adminapi',
+    1 => 'login',
+    2 => 'captcha',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'cookie' => 'PHPSESSID=doph2g8fi6k8j9s9sk6bjsrsaa',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'adminapi.pyg.com',
+)
+[ info ] [ PARAM ] array (
+  '/captcha/427311626a61c305a98_html' => '',
+)
+[ info ] [ RUN ] app\adminapi\controller\Login->captcha[ F:\pyg\application\adminapi\controller\Login.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-04-28T17:43:58+08:00 ] 127.0.0.1 GET adminapi.pyg.com//captcha//427311626a61c305a98.html
+[运行时间：0.030334s] [吞吐率：32.97req/s] [内存消耗：1,652.46kb] [文件加载：42]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'adminapi',
+    1 => 'login',
+    2 => 'captcha',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'cookie' => 'PHPSESSID=doph2g8fi6k8j9s9sk6bjsrsaa',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'adminapi.pyg.com',
+)
+[ info ] [ PARAM ] array (
+  '/captcha/427311626a61c305a98_html' => '',
+)
+[ info ] [ RUN ] app\adminapi\controller\Login->captcha[ F:\pyg\application\adminapi\controller\Login.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-04-28T17:44:06+08:00 ] 127.0.0.1 GET adminapi.pyg.com//captcha//
+[运行时间：0.039841s] [吞吐率：25.10req/s] [内存消耗：1,651.45kb] [文件加载：42]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'adminapi',
+    1 => 'login',
+    2 => 'captcha',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'cookie' => 'PHPSESSID=doph2g8fi6k8j9s9sk6bjsrsaa',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'adminapi.pyg.com',
+)
+[ info ] [ PARAM ] array (
+  '/captcha/' => '',
+)
+[ info ] [ RUN ] app\adminapi\controller\Login->captcha[ F:\pyg\application\adminapi\controller\Login.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-04-28T17:44:15+08:00 ] 127.0.0.1 GET adminapi.pyg.com/captcha/
+[运行时间：0.037497s] [吞吐率：26.67req/s] [内存消耗：1,651.45kb] [文件加载：42]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'adminapi',
+    1 => 'login',
+    2 => 'captcha',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'cookie' => 'PHPSESSID=doph2g8fi6k8j9s9sk6bjsrsaa',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'adminapi.pyg.com',
+)
+[ info ] [ PARAM ] array (
+  '/captcha/' => '',
+)
+[ info ] [ RUN ] app\adminapi\controller\Login->captcha[ F:\pyg\application\adminapi\controller\Login.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-04-28T17:44:21+08:00 ] 127.0.0.1 GET adminapi.pyg.com//captcha//394322626a61ef01f31.html
+[运行时间：0.033207s] [吞吐率：30.11req/s] [内存消耗：1,651.82kb] [文件加载：42]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'adminapi',
+    1 => 'login',
+    2 => 'captcha',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'cookie' => 'PHPSESSID=doph2g8fi6k8j9s9sk6bjsrsaa',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'adminapi.pyg.com',
+)
+[ info ] [ PARAM ] array (
+  '/captcha/394322626a61ef01f31_html' => '',
+)
+[ info ] [ RUN ] app\adminapi\controller\Login->captcha[ F:\pyg\application\adminapi\controller\Login.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-04-28T17:45:14+08:00 ] 127.0.0.1 GET adminapi.pyg.com//captcha//394322626a61ef01f31.html
+[运行时间：0.029229s] [吞吐率：34.21req/s] [内存消耗：1,651.97kb] [文件加载：42]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'adminapi',
+    1 => 'login',
+    2 => 'captcha',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'cookie' => 'PHPSESSID=doph2g8fi6k8j9s9sk6bjsrsaa',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'adminapi.pyg.com',
+)
+[ info ] [ PARAM ] array (
+  '/captcha/394322626a61ef01f31_html' => '',
+)
+[ info ] [ RUN ] app\adminapi\controller\Login->captcha[ F:\pyg\application\adminapi\controller\Login.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-04-28T17:45:32+08:00 ] 127.0.0.1 GET adminapi.pyg.com//captcha//394322626a61ef01f31.html
+[运行时间：0.038068s] [吞吐率：26.27req/s] [内存消耗：1,332.58kb] [文件加载：34]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\captcha\\CaptchaController',
+    1 => 'index',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'cookie' => 'PHPSESSID=doph2g8fi6k8j9s9sk6bjsrsaa',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'adminapi.pyg.com',
+)
+[ info ] [ PARAM ] array (
+  '/captcha/394322626a61ef01f31_html' => '',
+  'id' => '394322626a61ef01f31',
+)
+[ info ] [ RUN ] think\captcha\CaptchaController->index[ F:\pyg\vendor\topthink\think-captcha\src\CaptchaController.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-04-28T17:45:34+08:00 ] 127.0.0.1 GET adminapi.pyg.com//captcha//394322626a61ef01f31.html
+[运行时间：0.030369s] [吞吐率：32.93req/s] [内存消耗：1,332.73kb] [文件加载：34]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\captcha\\CaptchaController',
+    1 => 'index',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'cookie' => 'PHPSESSID=doph2g8fi6k8j9s9sk6bjsrsaa',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'adminapi.pyg.com',
+)
+[ info ] [ PARAM ] array (
+  '/captcha/394322626a61ef01f31_html' => '',
+  'id' => '394322626a61ef01f31',
+)
+[ info ] [ RUN ] think\captcha\CaptchaController->index[ F:\pyg\vendor\topthink\think-captcha\src\CaptchaController.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-04-28T17:45:34+08:00 ] 127.0.0.1 GET adminapi.pyg.com//captcha//394322626a61ef01f31.html
+[运行时间：0.024543s] [吞吐率：40.74req/s] [内存消耗：1,332.73kb] [文件加载：34]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\captcha\\CaptchaController',
+    1 => 'index',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'cookie' => 'PHPSESSID=doph2g8fi6k8j9s9sk6bjsrsaa',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'adminapi.pyg.com',
+)
+[ info ] [ PARAM ] array (
+  '/captcha/394322626a61ef01f31_html' => '',
+  'id' => '394322626a61ef01f31',
+)
+[ info ] [ RUN ] think\captcha\CaptchaController->index[ F:\pyg\vendor\topthink\think-captcha\src\CaptchaController.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-04-28T17:45:35+08:00 ] 127.0.0.1 GET adminapi.pyg.com//captcha//394322626a61ef01f31.html
+[运行时间：0.023444s] [吞吐率：42.65req/s] [内存消耗：1,332.73kb] [文件加载：34]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\captcha\\CaptchaController',
+    1 => 'index',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'cookie' => 'PHPSESSID=doph2g8fi6k8j9s9sk6bjsrsaa',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'adminapi.pyg.com',
+)
+[ info ] [ PARAM ] array (
+  '/captcha/394322626a61ef01f31_html' => '',
+  'id' => '394322626a61ef01f31',
+)
+[ info ] [ RUN ] think\captcha\CaptchaController->index[ F:\pyg\vendor\topthink\think-captcha\src\CaptchaController.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-04-28T17:45:35+08:00 ] 127.0.0.1 GET adminapi.pyg.com//captcha//394322626a61ef01f31.html
+[运行时间：0.023176s] [吞吐率：43.15req/s] [内存消耗：1,332.73kb] [文件加载：34]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\captcha\\CaptchaController',
+    1 => 'index',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'cookie' => 'PHPSESSID=doph2g8fi6k8j9s9sk6bjsrsaa',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'adminapi.pyg.com',
+)
+[ info ] [ PARAM ] array (
+  '/captcha/394322626a61ef01f31_html' => '',
+  'id' => '394322626a61ef01f31',
+)
+[ info ] [ RUN ] think\captcha\CaptchaController->index[ F:\pyg\vendor\topthink\think-captcha\src\CaptchaController.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-04-28T17:45:36+08:00 ] 127.0.0.1 GET adminapi.pyg.com//captcha//394322626a61ef01f31.html
+[运行时间：0.023438s] [吞吐率：42.67req/s] [内存消耗：1,332.73kb] [文件加载：34]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\captcha\\CaptchaController',
+    1 => 'index',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'cookie' => 'PHPSESSID=doph2g8fi6k8j9s9sk6bjsrsaa',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'adminapi.pyg.com',
+)
+[ info ] [ PARAM ] array (
+  '/captcha/394322626a61ef01f31_html' => '',
+  'id' => '394322626a61ef01f31',
+)
+[ info ] [ RUN ] think\captcha\CaptchaController->index[ F:\pyg\vendor\topthink\think-captcha\src\CaptchaController.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-04-28T17:45:36+08:00 ] 127.0.0.1 GET adminapi.pyg.com//captcha//394322626a61ef01f31.html
+[运行时间：0.024457s] [吞吐率：40.89req/s] [内存消耗：1,332.73kb] [文件加载：34]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\captcha\\CaptchaController',
+    1 => 'index',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'cookie' => 'PHPSESSID=doph2g8fi6k8j9s9sk6bjsrsaa',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'adminapi.pyg.com',
+)
+[ info ] [ PARAM ] array (
+  '/captcha/394322626a61ef01f31_html' => '',
+  'id' => '394322626a61ef01f31',
+)
+[ info ] [ RUN ] think\captcha\CaptchaController->index[ F:\pyg\vendor\topthink\think-captcha\src\CaptchaController.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-04-28T17:45:41+08:00 ] 127.0.0.1 GET adminapi.pyg.com//captcha//394322626a61ef01f31.html
+[运行时间：0.025870s] [吞吐率：38.66req/s] [内存消耗：1,332.73kb] [文件加载：34]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\captcha\\CaptchaController',
+    1 => 'index',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'cookie' => 'PHPSESSID=doph2g8fi6k8j9s9sk6bjsrsaa',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'adminapi.pyg.com',
+)
+[ info ] [ PARAM ] array (
+  '/captcha/394322626a61ef01f31_html' => '',
+  'id' => '394322626a61ef01f31',
+)
+[ info ] [ RUN ] think\captcha\CaptchaController->index[ F:\pyg\vendor\topthink\think-captcha\src\CaptchaController.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-04-28T17:45:41+08:00 ] 127.0.0.1 GET adminapi.pyg.com//captcha//394322626a61ef01f31.html
+[运行时间：0.026303s] [吞吐率：38.02req/s] [内存消耗：1,332.73kb] [文件加载：34]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\captcha\\CaptchaController',
+    1 => 'index',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'cookie' => 'PHPSESSID=doph2g8fi6k8j9s9sk6bjsrsaa',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'adminapi.pyg.com',
+)
+[ info ] [ PARAM ] array (
+  '/captcha/394322626a61ef01f31_html' => '',
+  'id' => '394322626a61ef01f31',
+)
+[ info ] [ RUN ] think\captcha\CaptchaController->index[ F:\pyg\vendor\topthink\think-captcha\src\CaptchaController.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-04-28T17:45:46+08:00 ] 127.0.0.1 GET adminapi.pyg.com//captcha//
+[运行时间：0.046526s] [吞吐率：21.49req/s] [内存消耗：1,650.96kb] [文件加载：42]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'adminapi',
+    1 => 'login',
+    2 => 'captcha',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'cookie' => 'PHPSESSID=doph2g8fi6k8j9s9sk6bjsrsaa',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'adminapi.pyg.com',
+)
+[ info ] [ PARAM ] array (
+  '/captcha/' => '',
+)
+[ info ] [ RUN ] app\adminapi\controller\Login->captcha[ F:\pyg\application\adminapi\controller\Login.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-04-28T17:45:51+08:00 ] 127.0.0.1 GET adminapi.pyg.com//captcha//394322626a61ef01f31.html
+[运行时间：0.047738s] [吞吐率：20.95req/s] [内存消耗：1,332.09kb] [文件加载：34]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\captcha\\CaptchaController',
+    1 => 'index',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'cookie' => 'PHPSESSID=doph2g8fi6k8j9s9sk6bjsrsaa',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'adminapi.pyg.com',
+)
+[ info ] [ PARAM ] array (
+  '/captcha/394322626a61ef01f31_html' => '',
+  'id' => '394322626a61ef01f31',
+)
+[ info ] [ RUN ] think\captcha\CaptchaController->index[ F:\pyg\vendor\topthink\think-captcha\src\CaptchaController.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-04-28T17:45:53+08:00 ] 127.0.0.1 GET adminapi.pyg.com//captcha
+[运行时间：0.036955s] [吞吐率：27.06req/s] [内存消耗：1,650.87kb] [文件加载：42]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'adminapi',
+    1 => 'login',
+    2 => 'captcha',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'cookie' => 'PHPSESSID=doph2g8fi6k8j9s9sk6bjsrsaa',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'adminapi.pyg.com',
+)
+[ info ] [ PARAM ] array (
+  '/captcha' => '',
+)
+[ info ] [ RUN ] app\adminapi\controller\Login->captcha[ F:\pyg\application\adminapi\controller\Login.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-04-28T17:45:56+08:00 ] 127.0.0.1 GET adminapi.pyg.com//captcha//s
+[运行时间：0.029669s] [吞吐率：33.71req/s] [内存消耗：1,332.38kb] [文件加载：34]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\captcha\\CaptchaController',
+    1 => 'index',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'cookie' => 'PHPSESSID=doph2g8fi6k8j9s9sk6bjsrsaa',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'adminapi.pyg.com',
+)
+[ info ] [ PARAM ] array (
+  '/captcha/s' => '',
+  'id' => 's',
+)
+[ info ] [ RUN ] think\captcha\CaptchaController->index[ F:\pyg\vendor\topthink\think-captcha\src\CaptchaController.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-04-28T17:46:00+08:00 ] 127.0.0.1 GET adminapi.pyg.com//captcha//df
+[运行时间：0.029213s] [吞吐率：34.23req/s] [内存消耗：1,332.99kb] [文件加载：34]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\captcha\\CaptchaController',
+    1 => 'index',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'cookie' => 'PHPSESSID=doph2g8fi6k8j9s9sk6bjsrsaa',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'adminapi.pyg.com',
+)
+[ info ] [ PARAM ] array (
+  '/captcha/df' => '',
+  'id' => 'df',
+)
+[ info ] [ RUN ] think\captcha\CaptchaController->index[ F:\pyg\vendor\topthink\think-captcha\src\CaptchaController.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-04-28T17:46:04+08:00 ] 127.0.0.1 GET adminapi.pyg.com//captcha/
+[运行时间：0.036840s] [吞吐率：27.14req/s] [内存消耗：1,650.96kb] [文件加载：42]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'adminapi',
+    1 => 'login',
+    2 => 'captcha',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'cookie' => 'PHPSESSID=doph2g8fi6k8j9s9sk6bjsrsaa',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'adminapi.pyg.com',
+)
+[ info ] [ PARAM ] array (
+  '/captcha/' => '',
+)
+[ info ] [ RUN ] app\adminapi\controller\Login->captcha[ F:\pyg\application\adminapi\controller\Login.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-04-28T17:46:10+08:00 ] 127.0.0.1 GET adminapi.pyg.com//captcha/
+[运行时间：0.030566s] [吞吐率：32.72req/s] [内存消耗：1,651.85kb] [文件加载：42]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'adminapi',
+    1 => 'login',
+    2 => 'captcha',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'cookie' => 'PHPSESSID=doph2g8fi6k8j9s9sk6bjsrsaa',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'adminapi.pyg.com',
+)
+[ info ] [ PARAM ] array (
+  '/captcha/' => '',
+)
+[ info ] [ RUN ] app\adminapi\controller\Login->captcha[ F:\pyg\application\adminapi\controller\Login.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-04-28T17:46:12+08:00 ] 127.0.0.1 GET adminapi.pyg.com//captcha/d
+[运行时间：0.043642s] [吞吐率：22.91req/s] [内存消耗：1,651.18kb] [文件加载：42]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'adminapi',
+    1 => 'login',
+    2 => 'captcha',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'cookie' => 'PHPSESSID=doph2g8fi6k8j9s9sk6bjsrsaa',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'adminapi.pyg.com',
+)
+[ info ] [ PARAM ] array (
+  '/captcha/d' => '',
+)
+[ info ] [ RUN ] app\adminapi\controller\Login->captcha[ F:\pyg\application\adminapi\controller\Login.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-04-28T17:46:15+08:00 ] 127.0.0.1 GET adminapi.pyg.com//captcha/gr
+[运行时间：0.031197s] [吞吐率：32.05req/s] [内存消耗：1,651.18kb] [文件加载：42]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'adminapi',
+    1 => 'login',
+    2 => 'captcha',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'cookie' => 'PHPSESSID=doph2g8fi6k8j9s9sk6bjsrsaa',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'adminapi.pyg.com',
+)
+[ info ] [ PARAM ] array (
+  '/captcha/gr' => '',
+)
+[ info ] [ RUN ] app\adminapi\controller\Login->captcha[ F:\pyg\application\adminapi\controller\Login.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-04-28T17:46:20+08:00 ] 127.0.0.1 GET adminapi.pyg.com//captcha/gr
+[运行时间：0.026779s] [吞吐率：37.34req/s] [内存消耗：1,334.31kb] [文件加载：34]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\captcha\\CaptchaController',
+    1 => 'index',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'cookie' => 'PHPSESSID=doph2g8fi6k8j9s9sk6bjsrsaa',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'adminapi.pyg.com',
+)
+[ info ] [ PARAM ] array (
+  '/captcha/gr' => '',
+  'id' => 'gr',
+)
+[ info ] [ RUN ] think\captcha\CaptchaController->index[ F:\pyg\vendor\topthink\think-captcha\src\CaptchaController.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-04-28T17:47:13+08:00 ] 127.0.0.1 GET adminapi.pyg.com//captcha
+[运行时间：0.037878s] [吞吐率：26.40req/s] [内存消耗：1,650.87kb] [文件加载：42]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'adminapi',
+    1 => 'login',
+    2 => 'captcha',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'cookie' => 'PHPSESSID=doph2g8fi6k8j9s9sk6bjsrsaa',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'adminapi.pyg.com',
+)
+[ info ] [ PARAM ] array (
+  '/captcha' => '',
+)
+[ info ] [ RUN ] app\adminapi\controller\Login->captcha[ F:\pyg\application\adminapi\controller\Login.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-04-28T17:47:51+08:00 ] 127.0.0.1 GET adminapi.pyg.com/captcha
+[运行时间：0.061853s] [吞吐率：16.17req/s] [内存消耗：1,650.59kb] [文件加载：42]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'adminapi',
+    1 => 'login',
+    2 => 'captcha',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'referer' => 'http://localhost:8080/',
+  'origin' => 'http://localhost:8080',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50',
+  'accept' => 'application/json, text/plain, */*',
+  'connection' => 'close',
+  'host' => 'adminapi.pyg.com',
+)
+[ info ] [ PARAM ] array (
+  '/captcha' => '',
+)
+[ info ] [ RUN ] app\adminapi\controller\Login->captcha[ F:\pyg\application\adminapi\controller\Login.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-04-28T17:47:51+08:00 ] 127.0.0.1 GET adminapi.pyg.com/captcha/682442626a62c7983a8.html
+[运行时间：0.038800s] [吞吐率：25.77req/s] [内存消耗：1,330.96kb] [文件加载：34]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\captcha\\CaptchaController',
+    1 => 'index',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'referer' => 'http://localhost:8080/',
+  'accept' => 'image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50',
+  'connection' => 'close',
+  'host' => 'adminapi.pyg.com',
+)
+[ info ] [ PARAM ] array (
+  '/captcha/682442626a62c7983a8_html' => '',
+  'id' => '682442626a62c7983a8',
+)
+[ info ] [ RUN ] think\captcha\CaptchaController->index[ F:\pyg\vendor\topthink\think-captcha\src\CaptchaController.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-04-28T17:47:51+08:00 ] 127.0.0.1 GET adminapi.pyg.com/captcha/682442626a62c7983a8.html
+[运行时间：0.028505s] [吞吐率：35.08req/s] [内存消耗：1,330.96kb] [文件加载：34]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\captcha\\CaptchaController',
+    1 => 'index',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'referer' => 'http://localhost:8080/',
+  'accept' => 'image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50',
+  'connection' => 'close',
+  'host' => 'adminapi.pyg.com',
+)
+[ info ] [ PARAM ] array (
+  '/captcha/682442626a62c7983a8_html' => '',
+  'id' => '682442626a62c7983a8',
+)
+[ info ] [ RUN ] think\captcha\CaptchaController->index[ F:\pyg\vendor\topthink\think-captcha\src\CaptchaController.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-04-28T17:47:54+08:00 ] 127.0.0.1 GET adminapi.pyg.com/captcha
+[运行时间：0.030722s] [吞吐率：32.55req/s] [内存消耗：1,650.59kb] [文件加载：42]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'adminapi',
+    1 => 'login',
+    2 => 'captcha',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'referer' => 'http://localhost:8080/',
+  'origin' => 'http://localhost:8080',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50',
+  'accept' => 'application/json, text/plain, */*',
+  'connection' => 'close',
+  'host' => 'adminapi.pyg.com',
+)
+[ info ] [ PARAM ] array (
+  '/captcha' => '',
+)
+[ info ] [ RUN ] app\adminapi\controller\Login->captcha[ F:\pyg\application\adminapi\controller\Login.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-04-28T17:47:54+08:00 ] 127.0.0.1 GET adminapi.pyg.com/captcha/911019626a62ca686bc.html
+[运行时间：0.030605s] [吞吐率：32.67req/s] [内存消耗：1,330.96kb] [文件加载：34]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\captcha\\CaptchaController',
+    1 => 'index',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'referer' => 'http://localhost:8080/',
+  'accept' => 'image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50',
+  'connection' => 'close',
+  'host' => 'adminapi.pyg.com',
+)
+[ info ] [ PARAM ] array (
+  '/captcha/911019626a62ca686bc_html' => '',
+  'id' => '911019626a62ca686bc',
+)
+[ info ] [ RUN ] think\captcha\CaptchaController->index[ F:\pyg\vendor\topthink\think-captcha\src\CaptchaController.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-04-28T17:47:54+08:00 ] 127.0.0.1 GET adminapi.pyg.com/captcha/911019626a62ca686bc.html
+[运行时间：0.040569s] [吞吐率：24.65req/s] [内存消耗：1,330.96kb] [文件加载：34]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\captcha\\CaptchaController',
+    1 => 'index',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'referer' => 'http://localhost:8080/',
+  'accept' => 'image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50',
+  'connection' => 'close',
+  'host' => 'adminapi.pyg.com',
+)
+[ info ] [ PARAM ] array (
+  '/captcha/911019626a62ca686bc_html' => '',
+  'id' => '911019626a62ca686bc',
+)
+[ info ] [ RUN ] think\captcha\CaptchaController->index[ F:\pyg\vendor\topthink\think-captcha\src\CaptchaController.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-04-28T17:48:09+08:00 ] 127.0.0.1 GET adminapi.pyg.com/captcha
+[运行时间：0.039510s] [吞吐率：25.31req/s] [内存消耗：1,650.59kb] [文件加载：42]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'adminapi',
+    1 => 'login',
+    2 => 'captcha',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'referer' => 'http://localhost:8080/',
+  'origin' => 'http://localhost:8080',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50',
+  'accept' => 'application/json, text/plain, */*',
+  'connection' => 'close',
+  'host' => 'adminapi.pyg.com',
+)
+[ info ] [ PARAM ] array (
+  '/captcha' => '',
+)
+[ info ] [ RUN ] app\adminapi\controller\Login->captcha[ F:\pyg\application\adminapi\controller\Login.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-04-28T17:48:09+08:00 ] 127.0.0.1 GET adminapi.pyg.com/captcha/962042626a62d97c17e.html
+[运行时间：0.028807s] [吞吐率：34.71req/s] [内存消耗：1,330.96kb] [文件加载：34]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\captcha\\CaptchaController',
+    1 => 'index',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'referer' => 'http://localhost:8080/',
+  'accept' => 'image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50',
+  'connection' => 'close',
+  'host' => 'adminapi.pyg.com',
+)
+[ info ] [ PARAM ] array (
+  '/captcha/962042626a62d97c17e_html' => '',
+  'id' => '962042626a62d97c17e',
+)
+[ info ] [ RUN ] think\captcha\CaptchaController->index[ F:\pyg\vendor\topthink\think-captcha\src\CaptchaController.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-04-28T17:48:09+08:00 ] 127.0.0.1 GET adminapi.pyg.com/captcha/962042626a62d97c17e.html
+[运行时间：0.032784s] [吞吐率：30.50req/s] [内存消耗：1,330.96kb] [文件加载：34]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\captcha\\CaptchaController',
+    1 => 'index',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'referer' => 'http://localhost:8080/',
+  'accept' => 'image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50',
+  'connection' => 'close',
+  'host' => 'adminapi.pyg.com',
+)
+[ info ] [ PARAM ] array (
+  '/captcha/962042626a62d97c17e_html' => '',
+  'id' => '962042626a62d97c17e',
+)
+[ info ] [ RUN ] think\captcha\CaptchaController->index[ F:\pyg\vendor\topthink\think-captcha\src\CaptchaController.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-04-28T17:48:28+08:00 ] 127.0.0.1 GET adminapi.pyg.com/captcha
+[运行时间：0.033195s] [吞吐率：30.13req/s] [内存消耗：1,650.59kb] [文件加载：42]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'adminapi',
+    1 => 'login',
+    2 => 'captcha',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'referer' => 'http://localhost:8080/',
+  'origin' => 'http://localhost:8080',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50',
+  'accept' => 'application/json, text/plain, */*',
+  'connection' => 'close',
+  'host' => 'adminapi.pyg.com',
+)
+[ info ] [ PARAM ] array (
+  '/captcha' => '',
+)
+[ info ] [ RUN ] app\adminapi\controller\Login->captcha[ F:\pyg\application\adminapi\controller\Login.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-04-28T17:48:29+08:00 ] 127.0.0.1 GET adminapi.pyg.com/captcha/971442626a62ececf64.html
+[运行时间：0.100764s] [吞吐率：9.92req/s] [内存消耗：1,330.96kb] [文件加载：34]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\captcha\\CaptchaController',
+    1 => 'index',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'referer' => 'http://localhost:8080/',
+  'accept' => 'image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50',
+  'connection' => 'close',
+  'host' => 'adminapi.pyg.com',
+)
+[ info ] [ PARAM ] array (
+  '/captcha/971442626a62ececf64_html' => '',
+  'id' => '971442626a62ececf64',
+)
+[ info ] [ RUN ] think\captcha\CaptchaController->index[ F:\pyg\vendor\topthink\think-captcha\src\CaptchaController.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-04-28T17:48:29+08:00 ] 127.0.0.1 GET adminapi.pyg.com/captcha/971442626a62ececf64.html
+[运行时间：0.031606s] [吞吐率：31.64req/s] [内存消耗：1,330.96kb] [文件加载：34]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\captcha\\CaptchaController',
+    1 => 'index',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'referer' => 'http://localhost:8080/',
+  'accept' => 'image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50',
+  'connection' => 'close',
+  'host' => 'adminapi.pyg.com',
+)
+[ info ] [ PARAM ] array (
+  '/captcha/971442626a62ececf64_html' => '',
+  'id' => '971442626a62ececf64',
+)
+[ info ] [ RUN ] think\captcha\CaptchaController->index[ F:\pyg\vendor\topthink\think-captcha\src\CaptchaController.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-04-28T17:48:37+08:00 ] 127.0.0.1 GET adminapi.pyg.com/captcha
+[运行时间：0.024701s] [吞吐率：40.48req/s] [内存消耗：1,650.59kb] [文件加载：42]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'adminapi',
+    1 => 'login',
+    2 => 'captcha',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'referer' => 'http://localhost:8080/',
+  'origin' => 'http://localhost:8080',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50',
+  'accept' => 'application/json, text/plain, */*',
+  'connection' => 'close',
+  'host' => 'adminapi.pyg.com',
+)
+[ info ] [ PARAM ] array (
+  '/captcha' => '',
+)
+[ info ] [ RUN ] app\adminapi\controller\Login->captcha[ F:\pyg\application\adminapi\controller\Login.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-04-28T17:48:37+08:00 ] 127.0.0.1 GET adminapi.pyg.com/captcha/415114626a62f55ec18.html
+[运行时间：0.025805s] [吞吐率：38.75req/s] [内存消耗：1,330.96kb] [文件加载：34]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\captcha\\CaptchaController',
+    1 => 'index',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'referer' => 'http://localhost:8080/',
+  'accept' => 'image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50',
+  'connection' => 'close',
+  'host' => 'adminapi.pyg.com',
+)
+[ info ] [ PARAM ] array (
+  '/captcha/415114626a62f55ec18_html' => '',
+  'id' => '415114626a62f55ec18',
+)
+[ info ] [ RUN ] think\captcha\CaptchaController->index[ F:\pyg\vendor\topthink\think-captcha\src\CaptchaController.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-04-28T17:48:37+08:00 ] 127.0.0.1 GET adminapi.pyg.com/captcha/415114626a62f55ec18.html
+[运行时间：0.047250s] [吞吐率：21.16req/s] [内存消耗：1,330.96kb] [文件加载：34]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\captcha\\CaptchaController',
+    1 => 'index',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'referer' => 'http://localhost:8080/',
+  'accept' => 'image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50',
+  'connection' => 'close',
+  'host' => 'adminapi.pyg.com',
+)
+[ info ] [ PARAM ] array (
+  '/captcha/415114626a62f55ec18_html' => '',
+  'id' => '415114626a62f55ec18',
+)
+[ info ] [ RUN ] think\captcha\CaptchaController->index[ F:\pyg\vendor\topthink\think-captcha\src\CaptchaController.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-04-28T17:48:44+08:00 ] 127.0.0.1 GET adminapi.pyg.com/captcha
+[运行时间：0.026593s] [吞吐率：37.60req/s] [内存消耗：1,650.59kb] [文件加载：42]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'adminapi',
+    1 => 'login',
+    2 => 'captcha',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'referer' => 'http://localhost:8080/',
+  'origin' => 'http://localhost:8080',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50',
+  'accept' => 'application/json, text/plain, */*',
+  'connection' => 'close',
+  'host' => 'adminapi.pyg.com',
+)
+[ info ] [ PARAM ] array (
+  '/captcha' => '',
+)
+[ info ] [ RUN ] app\adminapi\controller\Login->captcha[ F:\pyg\application\adminapi\controller\Login.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-04-28T17:48:44+08:00 ] 127.0.0.1 GET adminapi.pyg.com/captcha/831061626a62fc8eaad.html
+[运行时间：0.040474s] [吞吐率：24.71req/s] [内存消耗：1,330.96kb] [文件加载：34]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\captcha\\CaptchaController',
+    1 => 'index',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'referer' => 'http://localhost:8080/',
+  'accept' => 'image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50',
+  'connection' => 'close',
+  'host' => 'adminapi.pyg.com',
+)
+[ info ] [ PARAM ] array (
+  '/captcha/831061626a62fc8eaad_html' => '',
+  'id' => '831061626a62fc8eaad',
+)
+[ info ] [ RUN ] think\captcha\CaptchaController->index[ F:\pyg\vendor\topthink\think-captcha\src\CaptchaController.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-04-28T17:48:44+08:00 ] 127.0.0.1 GET adminapi.pyg.com/captcha/831061626a62fc8eaad.html
+[运行时间：0.040712s] [吞吐率：24.56req/s] [内存消耗：1,330.96kb] [文件加载：34]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\captcha\\CaptchaController',
+    1 => 'index',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'referer' => 'http://localhost:8080/',
+  'accept' => 'image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50',
+  'connection' => 'close',
+  'host' => 'adminapi.pyg.com',
+)
+[ info ] [ PARAM ] array (
+  '/captcha/831061626a62fc8eaad_html' => '',
+  'id' => '831061626a62fc8eaad',
+)
+[ info ] [ RUN ] think\captcha\CaptchaController->index[ F:\pyg\vendor\topthink\think-captcha\src\CaptchaController.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-04-28T17:48:50+08:00 ] 127.0.0.1 GET adminapi.pyg.com/captcha
+[运行时间：0.026490s] [吞吐率：37.75req/s] [内存消耗：1,650.59kb] [文件加载：42]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'adminapi',
+    1 => 'login',
+    2 => 'captcha',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'referer' => 'http://localhost:8080/',
+  'origin' => 'http://localhost:8080',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50',
+  'accept' => 'application/json, text/plain, */*',
+  'connection' => 'close',
+  'host' => 'adminapi.pyg.com',
+)
+[ info ] [ PARAM ] array (
+  '/captcha' => '',
+)
+[ info ] [ RUN ] app\adminapi\controller\Login->captcha[ F:\pyg\application\adminapi\controller\Login.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-04-28T17:48:50+08:00 ] 127.0.0.1 GET adminapi.pyg.com/captcha/739615626a6302852a8.html
+[运行时间：0.024035s] [吞吐率：41.61req/s] [内存消耗：1,330.96kb] [文件加载：34]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\captcha\\CaptchaController',
+    1 => 'index',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'referer' => 'http://localhost:8080/',
+  'accept' => 'image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50',
+  'connection' => 'close',
+  'host' => 'adminapi.pyg.com',
+)
+[ info ] [ PARAM ] array (
+  '/captcha/739615626a6302852a8_html' => '',
+  'id' => '739615626a6302852a8',
+)
+[ info ] [ RUN ] think\captcha\CaptchaController->index[ F:\pyg\vendor\topthink\think-captcha\src\CaptchaController.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-04-28T17:48:50+08:00 ] 127.0.0.1 GET adminapi.pyg.com/captcha/739615626a6302852a8.html
+[运行时间：0.024883s] [吞吐率：40.19req/s] [内存消耗：1,330.96kb] [文件加载：34]
+[ info ] [ LANG ] F:\pyg\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\captcha\\CaptchaController',
+    1 => 'index',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'referer' => 'http://localhost:8080/',
+  'accept' => 'image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50',
+  'connection' => 'close',
+  'host' => 'adminapi.pyg.com',
+)
+[ info ] [ PARAM ] array (
+  '/captcha/739615626a6302852a8_html' => '',
+  'id' => '739615626a6302852a8',
+)
+[ info ] [ RUN ] think\captcha\CaptchaController->index[ F:\pyg\vendor\topthink\think-captcha\src\CaptchaController.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
