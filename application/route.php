@@ -32,6 +32,11 @@ Route::domain('adminapi',function(){
 	Route::post('login','adminapi/login/login');
 
 	//退出接口
-	Rout::get('logout','adminapi/login/logout');
-
+	Route::get('logout','adminapi/login/logout');
+	//权限接口
+	Route::resource('auths','adminapi/auth',[],['id'=>'\d+']);
+	//查询菜单权限的接口
+	Route::get('nav','adminapi/auth/nav');
+	//角色接口
+	Route::resource('roles','adminapi/role',[],['id'=>'\d+']);
 });

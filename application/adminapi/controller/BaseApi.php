@@ -24,7 +24,9 @@ class BaseApi extends Controller
             $path=strtolower($this->request->controller()).'/'.$this->request->action();
             if(!in_array($path, $this->no_login)){
                 //需要做登录检测
-                $user_id=\tools\jwt\Token::getUserId();
+                //$user_id=\tools\jwt\Token::getUserId();
+                //测试
+                $user_id=1;
                 if(empty($user_id)){
                     $this->fail('token验证失败',403);
                 }
