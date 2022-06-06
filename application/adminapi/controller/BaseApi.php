@@ -30,6 +30,10 @@ class BaseApi extends Controller
                 if(empty($user_id)){
                     $this->fail('token验证失败',403);
                 }
+                //权限检测
+                $auth_check=\app\adminapi\logic\AuthLogic::check($user_id);
+                if(!$auth_check)
+                    $this->fail('没有权限访问',303);
                 //将得到的用户id放到请求信息中
                 $this->request->get('user_id',$user_id);
                 $this->request->post('user_id',$user_id);

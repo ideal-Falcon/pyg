@@ -39,4 +39,11 @@ Route::domain('adminapi',function(){
 	Route::get('nav','adminapi/auth/nav');
 	//角色接口
 	Route::resource('roles','adminapi/role',[],['id'=>'\d+']);
+	//管理员接口
+	Route::resource('admins','adminapi/admin',[],['id'=>'\d+']);
+	//商品分类接口
+	Route::resource('categorys','adminapi/category',[],['id'=>'\d+']);
+
+	//单图片上传接口
+	Route::post('logo','adminapi/upload/logo');
 });
